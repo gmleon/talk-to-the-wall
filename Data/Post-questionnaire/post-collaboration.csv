@@ -1,0 +1,201 @@
+participant,question,statement,answer
+P1,awareness,I was aware of what my partner was working on,Agree
+P1,partneraware,I believe that my partner knew what I was working on,Agree
+P1,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Sometimes
+P1,samequestion,How often did you work on the same question as your partner?,Often
+P1,lookacross,How often did you look across the wall to see what your partner was doing?,Never
+P1,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Never
+P1,divided tasks,Did you divide up tasks between you?,Yes
+P1,effective team,Did you and your partner work effectively as a team to solve the scenario?,Very effective
+P1,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Undecided
+P1,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P2,awareness,I was aware of what my partner was working on,Agree
+P2,partneraware,I believe that my partner knew what I was working on,Agree
+P2,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P2,samequestion,How often did you work on the same question as your partner?,No answer
+P2,lookacross,How often did you look across the wall to see what your partner was doing?,Often
+P2,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Rarely
+P2,divided tasks,Did you divide up tasks between you?,Yes
+P2,effective team,Did you and your partner work effectively as a team to solve the scenario?,Very effective
+P2,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Agree
+P2,afraid to annoy,I was afraid that using speech commands would annoy my partner,Strongly Agree
+P3,awareness,I was aware of what my partner was working on,Agree
+P3,partneraware,I believe that my partner knew what I was working on,Agree
+P3,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Sometimes
+P3,samequestion,How often did you work on the same question as your partner?,Often
+P3,lookacross,How often did you look across the wall to see what your partner was doing?,Once in a while
+P3,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Rarely
+P3,divided tasks,Did you divide up tasks between you?,Yes
+P3,effective team,Did you and your partner work effectively as a team to solve the scenario?,Ineffective
+P3,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Disagree
+P3,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P4,awareness,I was aware of what my partner was working on,Agree
+P4,partneraware,I believe that my partner knew what I was working on,Undecided
+P4,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Sometimes
+P4,samequestion,How often did you work on the same question as your partner?,Often
+P4,lookacross,How often did you look across the wall to see what your partner was doing?,Often
+P4,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Occasionally
+P4,divided tasks,Did you divide up tasks between you?,Yes
+P4,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P4,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Strongly Disagree
+P4,afraid to annoy,I was afraid that using speech commands would annoy my partner,Undecided
+P5,awareness,I was aware of what my partner was working on,Disagree
+P5,partneraware,I believe that my partner knew what I was working on,Undecided
+P5,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P5,samequestion,How often did you work on the same question as your partner?,Sometimes
+P5,lookacross,How often did you look across the wall to see what your partner was doing?,Sometimes
+P5,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Rarely
+P5,divided tasks,Did you divide up tasks between you?,Yes
+P5,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P5,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Disagree
+P5,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P6,awareness,I was aware of what my partner was working on,Agree
+P6,partneraware,I believe that my partner knew what I was working on,Agree
+P6,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Very often
+P6,samequestion,How often did you work on the same question as your partner?,Once in a while
+P6,lookacross,How often did you look across the wall to see what your partner was doing?,Sometimes
+P6,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Occasionally
+P6,divided tasks,Did you divide up tasks between you?,Yes
+P6,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P6,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Disagree
+P6,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P7,awareness,I was aware of what my partner was working on,Agree
+P7,partneraware,I believe that my partner knew what I was working on,Undecided
+P7,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Sometimes
+P7,samequestion,How often did you work on the same question as your partner?,Often
+P7,lookacross,How often did you look across the wall to see what your partner was doing?,Very often
+P7,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Occasionally
+P7,divided tasks,Did you divide up tasks between you?,Yes
+P7,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P7,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Agree
+P7,afraid to annoy,I was afraid that using speech commands would annoy my partner,Strongly Agree
+P8,awareness,I was aware of what my partner was working on,Agree
+P8,partneraware,I believe that my partner knew what I was working on,Agree
+P8,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Very often
+P8,samequestion,How often did you work on the same question as your partner?,Often
+P8,lookacross,How often did you look across the wall to see what your partner was doing?,Sometimes
+P8,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Frequently
+P8,divided tasks,Did you divide up tasks between you?,Yes
+P8,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P8,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Undecided
+P8,afraid to annoy,I was afraid that using speech commands would annoy my partner,Strongly Disagree
+P9,awareness,I was aware of what my partner was working on,Strongly Agree
+P9,partneraware,I believe that my partner knew what I was working on,Agree
+P9,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P9,samequestion,How often did you work on the same question as your partner?,Once in a while
+P9,lookacross,How often did you look across the wall to see what your partner was doing?,Never
+P9,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Never
+P9,divided tasks,Did you divide up tasks between you?,Yes
+P9,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P9,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Strongly Disagree
+P9,afraid to annoy,I was afraid that using speech commands would annoy my partner,Strongly Disagree
+P10,awareness,I was aware of what my partner was working on,Agree
+P10,partneraware,I believe that my partner knew what I was working on,Agree
+P10,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Sometimes
+P10,samequestion,How often did you work on the same question as your partner?,Once in a while
+P10,lookacross,How often did you look across the wall to see what your partner was doing?,Sometimes
+P10,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Occasionally
+P10,divided tasks,Did you divide up tasks between you?,Yes
+P10,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P10,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Strongly Disagree
+P10,afraid to annoy,I was afraid that using speech commands would annoy my partner,Agree
+P11,awareness,I was aware of what my partner was working on,Strongly Agree
+P11,partneraware,I believe that my partner knew what I was working on,Agree
+P11,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P11,samequestion,How often did you work on the same question as your partner?,Often
+P11,lookacross,How often did you look across the wall to see what your partner was doing?,Often
+P11,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Frequently
+P11,divided tasks,Did you divide up tasks between you?,Yes
+P11,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P11,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Disagree
+P11,afraid to annoy,I was afraid that using speech commands would annoy my partner,Agree
+P12,awareness,I was aware of what my partner was working on,Strongly Agree
+P12,partneraware,I believe that my partner knew what I was working on,Agree
+P12,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Often
+P12,samequestion,How often did you work on the same question as your partner?,Sometimes
+P12,lookacross,How often did you look across the wall to see what your partner was doing?,Sometimes
+P12,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Frequently
+P12,divided tasks,Did you divide up tasks between you?,Yes
+P12,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P12,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Disagree
+P12,afraid to annoy,I was afraid that using speech commands would annoy my partner,Agree
+P13,awareness,I was aware of what my partner was working on,Agree
+P13,partneraware,I believe that my partner knew what I was working on,Agree
+P13,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P13,samequestion,How often did you work on the same question as your partner?,Sometimes
+P13,lookacross,How often did you look across the wall to see what your partner was doing?,Once in a while
+P13,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Rarely
+P13,divided tasks,Did you divide up tasks between you?,Yes
+P13,effective team,Did you and your partner work effectively as a team to solve the scenario?,Very effective
+P13,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Strongly Disagree
+P13,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P14,awareness,I was aware of what my partner was working on,Agree
+P14,partneraware,I believe that my partner knew what I was working on,Agree
+P14,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P14,samequestion,How often did you work on the same question as your partner?,Never
+P14,lookacross,How often did you look across the wall to see what your partner was doing?,Very often
+P14,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Never
+P14,divided tasks,Did you divide up tasks between you?,Yes
+P14,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P14,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Strongly Disagree
+P14,afraid to annoy,I was afraid that using speech commands would annoy my partner,Strongly Agree
+P15,awareness,I was aware of what my partner was working on,Strongly Agree
+P15,partneraware,I believe that my partner knew what I was working on,Agree
+P15,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Very often
+P15,samequestion,How often did you work on the same question as your partner?,Often
+P15,lookacross,How often did you look across the wall to see what your partner was doing?,Sometimes
+P15,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Occasionally
+P15,divided tasks,Did you divide up tasks between you?,Yes
+P15,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P15,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Agree
+P15,afraid to annoy,I was afraid that using speech commands would annoy my partner,Agree
+P16,awareness,I was aware of what my partner was working on,Agree
+P16,partneraware,I believe that my partner knew what I was working on,Undecided
+P16,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Never
+P16,samequestion,How often did you work on the same question as your partner?,Once in a while
+P16,lookacross,How often did you look across the wall to see what your partner was doing?,Often
+P16,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Never
+P16,divided tasks,Did you divide up tasks between you?,Yes
+P16,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P16,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Strongly Disagree
+P16,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P17,awareness,I was aware of what my partner was working on,Agree
+P17,partneraware,I believe that my partner knew what I was working on,Agree
+P17,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P17,samequestion,How often did you work on the same question as your partner?,Sometimes
+P17,lookacross,How often did you look across the wall to see what your partner was doing?,Sometimes
+P17,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Frequently
+P17,divided tasks,Did you divide up tasks between you?,Yes
+P17,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P17,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Disagree
+P17,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P18,awareness,I was aware of what my partner was working on,Agree
+P18,partneraware,I believe that my partner knew what I was working on,Agree
+P18,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P18,samequestion,How often did you work on the same question as your partner?,Sometimes
+P18,lookacross,How often did you look across the wall to see what your partner was doing?,Often
+P18,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Never
+P18,divided tasks,Did you divide up tasks between you?,Yes
+P18,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P18,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Undecided
+P18,afraid to annoy,I was afraid that using speech commands would annoy my partner,Disagree
+P19,awareness,I was aware of what my partner was working on,Agree
+P19,partneraware,I believe that my partner knew what I was working on,Agree
+P19,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Once in a while
+P19,samequestion,How often did you work on the same question as your partner?,Sometimes
+P19,lookacross,How often did you look across the wall to see what your partner was doing?,Often
+P19,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Never
+P19,divided tasks,Did you divide up tasks between you?,Yes
+P19,effective team,Did you and your partner work effectively as a team to solve the scenario?,Effective
+P19,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Strongly Disagree
+P19,afraid to annoy,I was afraid that using speech commands would annoy my partner,Strongly Disagree
+P20,awareness,I was aware of what my partner was working on,Strongly Agree
+P20,partneraware,I believe that my partner knew what I was working on,Agree
+P20,importantinfo,How often did you partner have important information that would have helped you but you didn't find out about it?,Often
+P20,samequestion,How often did you work on the same question as your partner?,Sometimes
+P20,lookacross,How often did you look across the wall to see what your partner was doing?,Once in a while
+P20,partnerspeech,How frequently did you learn about what your partner was doing from their speech commands?,Rarely
+P20,divided tasks,Did you divide up tasks between you?,No
+P20,effective team,Did you and your partner work effectively as a team to solve the scenario?,Neutral
+P20,annoyed by speech,I was annoyed by the noise of the speech commands of my partner,Disagree
+P20,afraid to annoy,I was afraid that using speech commands would annoy my partner,Agree

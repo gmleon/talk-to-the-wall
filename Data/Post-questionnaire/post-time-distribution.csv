@@ -1,0 +1,301 @@
+participant,question,activity,percentage
+P1,How did you learn about what your partner was doing?,They told me,10
+P1,How did you learn about what your partner was doing?,I asked them,0
+P1,How did you learn about what your partner was doing?,We did it together,90
+P1,How did you learn about what your partner was doing?,I looked at their search,0
+P1,How did you learn about what your partner was doing?,I looked at their documents,0
+P1,How did you learn about what your partner was doing?,I looked at my own search results,0
+P1,How did you learn about what your partner was doing?,I heard their speech commands,0
+P1,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,0
+P1,I gave my partner information by?,Telling them,90
+P1,I gave my partner information by?,Suggesting searches,0
+P1,I gave my partner information by?,Suggesting articles,0
+P1,I gave my partner information by?,Passing them or showing them articles,10
+P1,I worked?,Alone researching my own question,20
+P1,I worked?,Alone researching a shared question,10
+P1,I worked?,Together with my partner,70
+P2,How did you learn about what your partner was doing?,They told me,45
+P2,How did you learn about what your partner was doing?,I asked them,10
+P2,How did you learn about what your partner was doing?,We did it together,25
+P2,How did you learn about what your partner was doing?,I looked at their search,6
+P2,How did you learn about what your partner was doing?,I looked at their documents,10
+P2,How did you learn about what your partner was doing?,I looked at my own search results,0
+P2,How did you learn about what your partner was doing?,I heard their speech commands,1
+P2,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,3
+P2,I gave my partner information by?,Telling them,30
+P2,I gave my partner information by?,Suggesting searches,20
+P2,I gave my partner information by?,Suggesting articles,20
+P2,I gave my partner information by?,Passing them or showing them articles,30
+P2,I worked?,Alone researching my own question,20
+P2,I worked?,Alone researching a shared question,70
+P2,I worked?,Together with my partner,10
+P3,How did you learn about what your partner was doing?,They told me,5
+P3,How did you learn about what your partner was doing?,I asked them,30
+P3,How did you learn about what your partner was doing?,We did it together,35
+P3,How did you learn about what your partner was doing?,I looked at their search,0
+P3,How did you learn about what your partner was doing?,I looked at their documents,15
+P3,How did you learn about what your partner was doing?,I looked at my own search results,0
+P3,How did you learn about what your partner was doing?,I heard their speech commands,5
+P3,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,10
+P3,I gave my partner information by?,Telling them,15
+P3,I gave my partner information by?,Suggesting searches,10
+P3,I gave my partner information by?,Suggesting articles,60
+P3,I gave my partner information by?,Passing them or showing them articles,15
+P3,I worked?,Alone researching my own question,50
+P3,I worked?,Alone researching a shared question,35
+P3,I worked?,Together with my partner,15
+P4,How did you learn about what your partner was doing?,They told me,10
+P4,How did you learn about what your partner was doing?,I asked them,5
+P4,How did you learn about what your partner was doing?,We did it together,20
+P4,How did you learn about what your partner was doing?,I looked at their search,10
+P4,How did you learn about what your partner was doing?,I looked at their documents,5
+P4,How did you learn about what your partner was doing?,I looked at my own search results,10
+P4,How did you learn about what your partner was doing?,I heard their speech commands,20
+P4,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,20
+P4,I gave my partner information by?,Telling them,20
+P4,I gave my partner information by?,Suggesting searches,30
+P4,I gave my partner information by?,Suggesting articles,30
+P4,I gave my partner information by?,Passing them or showing them articles,20
+P4,I worked?,Alone researching my own question,10
+P4,I worked?,Alone researching a shared question,10
+P4,I worked?,Together with my partner,80
+P5,How did you learn about what your partner was doing?,They told me,15
+P5,How did you learn about what your partner was doing?,I asked them,5
+P5,How did you learn about what your partner was doing?,We did it together,10
+P5,How did you learn about what your partner was doing?,I looked at their search,5
+P5,How did you learn about what your partner was doing?,I looked at their documents,15
+P5,How did you learn about what your partner was doing?,I looked at my own search results,10
+P5,How did you learn about what your partner was doing?,I heard their speech commands,10
+P5,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,30
+P5,I gave my partner information by?,Telling them,60
+P5,I gave my partner information by?,Suggesting searches,10
+P5,I gave my partner information by?,Suggesting articles,20
+P5,I gave my partner information by?,Passing them or showing them articles,10
+P5,I worked?,Alone researching my own question,70
+P5,I worked?,Alone researching a shared question,20
+P5,I worked?,Together with my partner,10
+P6,How did you learn about what your partner was doing?,They told me,30
+P6,How did you learn about what your partner was doing?,I asked them,40
+P6,How did you learn about what your partner was doing?,We did it together,5
+P6,How did you learn about what your partner was doing?,I looked at their search,5
+P6,How did you learn about what your partner was doing?,I looked at their documents,5
+P6,How did you learn about what your partner was doing?,I looked at my own search results,10
+P6,How did you learn about what your partner was doing?,I heard their speech commands,5
+P6,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,0
+P6,I gave my partner information by?,Telling them,65
+P6,I gave my partner information by?,Suggesting searches,15
+P6,I gave my partner information by?,Suggesting articles,10
+P6,I gave my partner information by?,Passing them or showing them articles,10
+P6,I worked?,Alone researching my own question,70
+P6,I worked?,Alone researching a shared question,20
+P6,I worked?,Together with my partner,10
+P7,How did you learn about what your partner was doing?,They told me,20
+P7,How did you learn about what your partner was doing?,I asked them,50
+P7,How did you learn about what your partner was doing?,We did it together,20
+P7,How did you learn about what your partner was doing?,I looked at their search,0
+P7,How did you learn about what your partner was doing?,I looked at their documents,5
+P7,How did you learn about what your partner was doing?,I looked at my own search results,0
+P7,How did you learn about what your partner was doing?,I heard their speech commands,5
+P7,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,0
+P7,I gave my partner information by?,Telling them,40
+P7,I gave my partner information by?,Suggesting searches,10
+P7,I gave my partner information by?,Suggesting articles,10
+P7,I gave my partner information by?,Passing them or showing them articles,40
+P7,I worked?,Alone researching my own question,25
+P7,I worked?,Alone researching a shared question,25
+P7,I worked?,Together with my partner,50
+P8,How did you learn about what your partner was doing?,They told me,20
+P8,How did you learn about what your partner was doing?,I asked them,14
+P8,How did you learn about what your partner was doing?,We did it together,10
+P8,How did you learn about what your partner was doing?,I looked at their search,8
+P8,How did you learn about what your partner was doing?,I looked at their documents,6
+P8,How did you learn about what your partner was doing?,I looked at my own search results,14
+P8,How did you learn about what your partner was doing?,I heard their speech commands,10
+P8,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,17
+P8,I gave my partner information by?,Telling them,25
+P8,I gave my partner information by?,Suggesting searches,35
+P8,I gave my partner information by?,Suggesting articles,29
+P8,I gave my partner information by?,Passing them or showing them articles,11
+P8,I worked?,Alone researching my own question,25
+P8,I worked?,Alone researching a shared question,37.5
+P8,I worked?,Together with my partner,37.5
+P9,How did you learn about what your partner was doing?,They told me,80
+P9,How did you learn about what your partner was doing?,I asked them,10
+P9,How did you learn about what your partner was doing?,We did it together,5
+P9,How did you learn about what your partner was doing?,I looked at their search,5
+P9,How did you learn about what your partner was doing?,I looked at their documents,0
+P9,How did you learn about what your partner was doing?,I looked at my own search results,0
+P9,How did you learn about what your partner was doing?,I heard their speech commands,0
+P9,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,0
+P9,I gave my partner information by?,Telling them,60
+P9,I gave my partner information by?,Suggesting searches,5
+P9,I gave my partner information by?,Suggesting articles,30
+P9,I gave my partner information by?,Passing them or showing them articles,5
+P9,I worked?,Alone researching my own question,50
+P9,I worked?,Alone researching a shared question,40
+P9,I worked?,Together with my partner,10
+P10,How did you learn about what your partner was doing?,They told me,3
+P10,How did you learn about what your partner was doing?,I asked them,40
+P10,How did you learn about what your partner was doing?,We did it together,4
+P10,How did you learn about what your partner was doing?,I looked at their search,6
+P10,How did you learn about what your partner was doing?,I looked at their documents,5
+P10,How did you learn about what your partner was doing?,I looked at my own search results,30
+P10,How did you learn about what your partner was doing?,I heard their speech commands,8
+P10,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,4
+P10,I gave my partner information by?,Telling them,80
+P10,I gave my partner information by?,Suggesting searches,6
+P10,I gave my partner information by?,Suggesting articles,9
+P10,I gave my partner information by?,Passing them or showing them articles,5
+P10,I worked?,Alone researching my own question,90
+P10,I worked?,Alone researching a shared question,5
+P10,I worked?,Together with my partner,5
+P11,How did you learn about what your partner was doing?,They told me,20
+P11,How did you learn about what your partner was doing?,I asked them,20
+P11,How did you learn about what your partner was doing?,We did it together,35
+P11,How did you learn about what your partner was doing?,I looked at their search,0
+P11,How did you learn about what your partner was doing?,I looked at their documents,10
+P11,How did you learn about what your partner was doing?,I looked at my own search results,0
+P11,How did you learn about what your partner was doing?,I heard their speech commands,10
+P11,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,5
+P11,I gave my partner information by?,Telling them,45
+P11,I gave my partner information by?,Suggesting searches,45
+P11,I gave my partner information by?,Suggesting articles,5
+P11,I gave my partner information by?,Passing them or showing them articles,5
+P11,I worked?,Alone researching my own question,30
+P11,I worked?,Alone researching a shared question,40
+P11,I worked?,Together with my partner,30
+P12,How did you learn about what your partner was doing?,They told me,10
+P12,How did you learn about what your partner was doing?,I asked them,5
+P12,How did you learn about what your partner was doing?,We did it together,20
+P12,How did you learn about what your partner was doing?,I looked at their search,10
+P12,How did you learn about what your partner was doing?,I looked at their documents,10
+P12,How did you learn about what your partner was doing?,I looked at my own search results,35
+P12,How did you learn about what your partner was doing?,I heard their speech commands,0
+P12,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,5
+P12,I gave my partner information by?,Telling them,30
+P12,I gave my partner information by?,Suggesting searches,20
+P12,I gave my partner information by?,Suggesting articles,20
+P12,I gave my partner information by?,Passing them or showing them articles,30
+P12,I worked?,Alone researching my own question,25
+P12,I worked?,Alone researching a shared question,25
+P12,I worked?,Together with my partner,50
+P13,How did you learn about what your partner was doing?,They told me,15
+P13,How did you learn about what your partner was doing?,I asked them,10
+P13,How did you learn about what your partner was doing?,We did it together,60
+P13,How did you learn about what your partner was doing?,I looked at their search,0
+P13,How did you learn about what your partner was doing?,I looked at their documents,10
+P13,How did you learn about what your partner was doing?,I looked at my own search results,0
+P13,How did you learn about what your partner was doing?,I heard their speech commands,2.5
+P13,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,2.5
+P13,I gave my partner information by?,Telling them,50
+P13,I gave my partner information by?,Suggesting searches,20
+P13,I gave my partner information by?,Suggesting articles,20
+P13,I gave my partner information by?,Passing them or showing them articles,10
+P13,I worked?,Alone researching my own question,50
+P13,I worked?,Alone researching a shared question,25
+P13,I worked?,Together with my partner,25
+P14,How did you learn about what your partner was doing?,They told me,20
+P14,How did you learn about what your partner was doing?,I asked them,30
+P14,How did you learn about what your partner was doing?,We did it together,25
+P14,How did you learn about what your partner was doing?,I looked at their search,0
+P14,How did you learn about what your partner was doing?,I looked at their documents,25
+P14,How did you learn about what your partner was doing?,I looked at my own search results,0
+P14,How did you learn about what your partner was doing?,I heard their speech commands,0
+P14,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,0
+P14,I gave my partner information by?,Telling them,50
+P14,I gave my partner information by?,Suggesting searches,10
+P14,I gave my partner information by?,Suggesting articles,0
+P14,I gave my partner information by?,Passing them or showing them articles,40
+P14,I worked?,Alone researching my own question,60
+P14,I worked?,Alone researching a shared question,20
+P14,I worked?,Together with my partner,20
+P15,How did you learn about what your partner was doing?,They told me,19
+P15,How did you learn about what your partner was doing?,I asked them,16
+P15,How did you learn about what your partner was doing?,We did it together,16
+P15,How did you learn about what your partner was doing?,I looked at their search,5
+P15,How did you learn about what your partner was doing?,I looked at their documents,16
+P15,How did you learn about what your partner was doing?,I looked at my own search results,11
+P15,How did you learn about what your partner was doing?,I heard their speech commands,11
+P15,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,5
+P15,I gave my partner information by?,Telling them,20
+P15,I gave my partner information by?,Suggesting searches,20
+P15,I gave my partner information by?,Suggesting articles,40
+P15,I gave my partner information by?,Passing them or showing them articles,20
+P15,I worked?,Alone researching my own question,20
+P15,I worked?,Alone researching a shared question,30
+P15,I worked?,Together with my partner,50
+P16,How did you learn about what your partner was doing?,They told me,20
+P16,How did you learn about what your partner was doing?,I asked them,20
+P16,How did you learn about what your partner was doing?,We did it together,30
+P16,How did you learn about what your partner was doing?,I looked at their search,0
+P16,How did you learn about what your partner was doing?,I looked at their documents,0
+P16,How did you learn about what your partner was doing?,I looked at my own search results,0
+P16,How did you learn about what your partner was doing?,I heard their speech commands,0
+P16,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,30
+P16,I gave my partner information by?,Telling them,100
+P16,I gave my partner information by?,Suggesting searches,0
+P16,I gave my partner information by?,Suggesting articles,0
+P16,I gave my partner information by?,Passing them or showing them articles,0
+P16,I worked?,Alone researching my own question,0
+P16,I worked?,Alone researching a shared question,70
+P16,I worked?,Together with my partner,30
+P17,How did you learn about what your partner was doing?,They told me,40
+P17,How did you learn about what your partner was doing?,I asked them,5
+P17,How did you learn about what your partner was doing?,We did it together,20
+P17,How did you learn about what your partner was doing?,I looked at their search,5
+P17,How did you learn about what your partner was doing?,I looked at their documents,5
+P17,How did you learn about what your partner was doing?,I looked at my own search results,15
+P17,How did you learn about what your partner was doing?,I heard their speech commands,5
+P17,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,5
+P17,I gave my partner information by?,Telling them,35
+P17,I gave my partner information by?,Suggesting searches,30
+P17,I gave my partner information by?,Suggesting articles,5
+P17,I gave my partner information by?,Passing them or showing them articles,30
+P17,I worked?,Alone researching my own question,35
+P17,I worked?,Alone researching a shared question,40
+P17,I worked?,Together with my partner,25
+P18,How did you learn about what your partner was doing?,They told me,25
+P18,How did you learn about what your partner was doing?,I asked them,10
+P18,How did you learn about what your partner was doing?,We did it together,10
+P18,How did you learn about what your partner was doing?,I looked at their search,10
+P18,How did you learn about what your partner was doing?,I looked at their documents,20
+P18,How did you learn about what your partner was doing?,I looked at my own search results,0
+P18,How did you learn about what your partner was doing?,I heard their speech commands,5
+P18,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,20
+P18,I gave my partner information by?,Telling them,40
+P18,I gave my partner information by?,Suggesting searches,10
+P18,I gave my partner information by?,Suggesting articles,20
+P18,I gave my partner information by?,Passing them or showing them articles,30
+P18,I worked?,Alone researching my own question,20
+P18,I worked?,Alone researching a shared question,60
+P18,I worked?,Together with my partner,20
+P19,How did you learn about what your partner was doing?,They told me,20
+P19,How did you learn about what your partner was doing?,I asked them,10
+P19,How did you learn about what your partner was doing?,We did it together,20
+P19,How did you learn about what your partner was doing?,I looked at their search,20
+P19,How did you learn about what your partner was doing?,I looked at their documents,20
+P19,How did you learn about what your partner was doing?,I looked at my own search results,0
+P19,How did you learn about what your partner was doing?,I heard their speech commands,0
+P19,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,10
+P19,I gave my partner information by?,Telling them,30
+P19,I gave my partner information by?,Suggesting searches,20
+P19,I gave my partner information by?,Suggesting articles,20
+P19,I gave my partner information by?,Passing them or showing them articles,30
+P19,I worked?,Alone researching my own question,40
+P19,I worked?,Alone researching a shared question,30
+P19,I worked?,Together with my partner,30
+P20,How did you learn about what your partner was doing?,They told me,50
+P20,How did you learn about what your partner was doing?,I asked them,0
+P20,How did you learn about what your partner was doing?,We did it together,30
+P20,How did you learn about what your partner was doing?,I looked at their search,10
+P20,How did you learn about what your partner was doing?,I looked at their documents,0
+P20,How did you learn about what your partner was doing?,I looked at my own search results,0
+P20,How did you learn about what your partner was doing?,I heard their speech commands,0
+P20,How did you learn about what your partner was doing?,I saw them touch certain objects on the screen,10
+P20,I gave my partner information by?,Telling them,100
+P20,I gave my partner information by?,Suggesting searches,0
+P20,I gave my partner information by?,Suggesting articles,0
+P20,I gave my partner information by?,Passing them or showing them articles,0
+P20,I worked?,Alone researching my own question,50
+P20,I worked?,Alone researching a shared question,0
+P20,I worked?,Together with my partner,50

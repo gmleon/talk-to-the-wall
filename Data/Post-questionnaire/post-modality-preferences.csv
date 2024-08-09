@@ -1,0 +1,341 @@
+participant,task,preference
+P1,open,Touch
+P1,close,Touch
+P1,select,Touch
+P1,deselect,Touch
+P1,sort,Touch
+P1,resize,Touch
+P1,move,Touch
+P1,scroll,Touch
+P1,mark,I prefer neither
+P1,clear,I prefer neither
+P1,search,Speech
+P1,clearsearch,Speech
+P1,addtag,Touch
+P1,assigntag,Touch
+P1,selecttag,Touch
+P1,removetag,I prefer neither
+P1,deletetag,Touch
+P2,open,Touch
+P2,close,I prefer them equally
+P2,select,Touch
+P2,deselect,Touch
+P2,sort,I prefer them equally
+P2,resize,Touch
+P2,move,I prefer them equally
+P2,scroll,Touch
+P2,mark,Touch
+P2,clear,Touch
+P2,search,I prefer them equally
+P2,clearsearch,Touch
+P2,addtag,Speech
+P2,assigntag,Touch
+P2,selecttag,I prefer neither
+P2,removetag,I prefer neither
+P2,deletetag,I prefer neither
+P3,open,Touch
+P3,close,Touch
+P3,select,Touch
+P3,deselect,Touch
+P3,sort,Speech
+P3,resize,Touch
+P3,move,Touch
+P3,scroll,Touch
+P3,mark,Touch
+P3,clear,Touch
+P3,search,Speech
+P3,clearsearch,Speech
+P3,addtag,Speech
+P3,assigntag,Touch
+P3,selecttag,I prefer them equally
+P3,removetag,Touch
+P3,deletetag,Touch
+P4,open,Touch
+P4,close,Touch
+P4,select,Speech
+P4,deselect,I prefer them equally
+P4,sort,Speech
+P4,resize,Touch
+P4,move,Touch
+P4,scroll,Touch
+P4,mark,Touch
+P4,clear,I prefer them equally
+P4,search,Touch
+P4,clearsearch,I prefer them equally
+P4,addtag,Touch
+P4,assigntag,I prefer them equally
+P4,selecttag,I prefer them equally
+P4,removetag,Touch
+P4,deletetag,I prefer them equally
+P5,open,Touch
+P5,close,Touch
+P5,select,Touch
+P5,deselect,Touch
+P5,sort,Speech
+P5,resize,Touch
+P5,move,Touch
+P5,scroll,Touch
+P5,mark,Touch
+P5,clear,I prefer them equally
+P5,search,I prefer them equally
+P5,clearsearch,I prefer neither
+P5,addtag,Touch
+P5,assigntag,Touch
+P5,selecttag,I prefer them equally
+P5,removetag,Touch
+P5,deletetag,Touch
+P6,open,Touch
+P6,close,Touch
+P6,select,Touch
+P6,deselect,Speech
+P6,sort,Speech
+P6,resize,I prefer neither
+P6,move,Touch
+P6,scroll,Touch
+P6,mark,Touch
+P6,clear,Touch
+P6,search,I prefer them equally
+P6,clearsearch,I prefer them equally
+P6,addtag,Speech
+P6,assigntag,Touch
+P6,selecttag,I prefer neither
+P6,removetag,I prefer neither
+P6,deletetag,Touch
+P7,open,Touch
+P7,close,Touch
+P7,select,I prefer them equally
+P7,deselect,Speech
+P7,sort,Speech
+P7,resize,Touch
+P7,move,Touch
+P7,scroll,Touch
+P7,mark,Touch
+P7,clear,I prefer neither
+P7,search,I prefer them equally
+P7,clearsearch,Speech
+P7,addtag,Speech
+P7,assigntag,Touch
+P7,selecttag,Speech
+P7,removetag,Speech
+P7,deletetag,Speech
+P8,open,Touch
+P8,close,Touch
+P8,select,Speech
+P8,deselect,Touch
+P8,sort,Speech
+P8,resize,I prefer neither
+P8,move,Touch
+P8,scroll,Touch
+P8,mark,Touch
+P8,clear,Touch
+P8,search,I prefer them equally
+P8,clearsearch,Touch
+P8,addtag,Speech
+P8,assigntag,Speech
+P8,selecttag,I prefer them equally
+P8,removetag,Touch
+P8,deletetag,Touch
+P9,open,Touch
+P9,close,Speech
+P9,select,I prefer them equally
+P9,deselect,Speech
+P9,sort,Speech
+P9,resize,Touch
+P9,move,Touch
+P9,scroll,Touch
+P9,mark,Touch
+P9,clear,I prefer them equally
+P9,search,Speech
+P9,clearsearch,I prefer them equally
+P9,addtag,Speech
+P9,assigntag,Touch
+P9,selecttag,Speech
+P9,removetag,I prefer neither
+P9,deletetag,I prefer neither
+P10,open,Touch
+P10,close,Touch
+P10,select,Touch
+P10,deselect,Speech
+P10,sort,Speech
+P10,resize,Touch
+P10,move,Touch
+P10,scroll,Touch
+P10,mark,Touch
+P10,clear,Touch
+P10,search,Touch
+P10,clearsearch,Touch
+P10,addtag,Touch
+P10,assigntag,Speech
+P10,selecttag,Touch
+P10,removetag,Touch
+P10,deletetag,Touch
+P11,open,Touch
+P11,close,Touch
+P11,select,Touch
+P11,deselect,Touch
+P11,sort,Speech
+P11,resize,Touch
+P11,move,Touch
+P11,scroll,Touch
+P11,mark,Touch
+P11,clear,Touch
+P11,search,I prefer them equally
+P11,clearsearch,Touch
+P11,addtag,Touch
+P11,assigntag,Touch
+P11,selecttag,Touch
+P11,removetag,Touch
+P11,deletetag,Touch
+P12,open,I prefer them equally
+P12,close,I prefer them equally
+P12,select,Touch
+P12,deselect,Touch
+P12,sort,Speech
+P12,resize,Touch
+P12,move,Touch
+P12,scroll,Touch
+P12,mark,Touch
+P12,clear,Touch
+P12,search,Touch
+P12,clearsearch,Touch
+P12,addtag,Touch
+P12,assigntag,Touch
+P12,selecttag,Touch
+P12,removetag,Touch
+P12,deletetag,Touch
+P13,open,Touch
+P13,close,Touch
+P13,select,Touch
+P13,deselect,Touch
+P13,sort,Speech
+P13,resize,Touch
+P13,move,I prefer them equally
+P13,scroll,Touch
+P13,mark,Touch
+P13,clear,Touch
+P13,search,I prefer them equally
+P13,clearsearch,I prefer them equally
+P13,addtag,Touch
+P13,assigntag,Touch
+P13,selecttag,Touch
+P13,removetag,Touch
+P13,deletetag,Touch
+P14,open,Touch
+P14,close,Touch
+P14,select,Touch
+P14,deselect,Touch
+P14,sort,Touch
+P14,resize,Touch
+P14,move,I prefer them equally
+P14,scroll,Touch
+P14,mark,Touch
+P14,clear,Touch
+P14,search,Touch
+P14,clearsearch,Touch
+P14,addtag,Touch
+P14,assigntag,Speech
+P14,selecttag,I prefer neither
+P14,removetag,I prefer neither
+P14,deletetag,Touch
+P15,open,Touch
+P15,close,Touch
+P15,select,I prefer them equally
+P15,deselect,I prefer them equally
+P15,sort,Speech
+P15,resize,Touch
+P15,move,Touch
+P15,scroll,Touch
+P15,mark,Touch
+P15,clear,Speech
+P15,search,Speech
+P15,clearsearch,Speech
+P15,addtag,Speech
+P15,assigntag,Speech
+P15,selecttag,I prefer them equally
+P15,removetag,Speech
+P15,deletetag,Touch
+P16,open,Touch
+P16,close,Touch
+P16,select,Touch
+P16,deselect,Touch
+P16,sort,I prefer neither
+P16,resize,Touch
+P16,move,Touch
+P16,scroll,Touch
+P16,mark,Touch
+P16,clear,Touch
+P16,search,I prefer neither
+P16,clearsearch,I prefer neither
+P16,addtag,Touch
+P16,assigntag,Touch
+P16,selecttag,I prefer neither
+P16,removetag,Touch
+P16,deletetag,Touch
+P17,open,Touch
+P17,close,Touch
+P17,select,I prefer them equally
+P17,deselect,I prefer them equally
+P17,sort,Speech
+P17,resize,Touch
+P17,move,Touch
+P17,scroll,Touch
+P17,mark,Touch
+P17,clear,Touch
+P17,search,I prefer them equally
+P17,clearsearch,Speech
+P17,addtag,Speech
+P17,assigntag,Touch
+P17,selecttag,Speech
+P17,removetag,Touch
+P17,deletetag,Touch
+P18,open,Touch
+P18,close,Touch
+P18,select,Touch
+P18,deselect,Speech
+P18,sort,Speech
+P18,resize,Touch
+P18,move,Touch
+P18,scroll,Touch
+P18,mark,Touch
+P18,clear,Touch
+P18,search,Touch
+P18,clearsearch,I prefer them equally
+P18,addtag,Touch
+P18,assigntag,Touch
+P18,selecttag,I prefer them equally
+P18,removetag,Touch
+P18,deletetag,Touch
+P19,open,Touch
+P19,close,Touch
+P19,select,Touch
+P19,deselect,Touch
+P19,sort,Speech
+P19,resize,Touch
+P19,move,Touch
+P19,scroll,Touch
+P19,mark,Touch
+P19,clear,Touch
+P19,search,Touch
+P19,clearsearch,Touch
+P19,addtag,Touch
+P19,assigntag,Touch
+P19,selecttag,Touch
+P19,removetag,Touch
+P19,deletetag,Touch
+P20,open,Touch
+P20,close,Touch
+P20,select,Touch
+P20,deselect,Touch
+P20,sort,Speech
+P20,resize,Touch
+P20,move,Touch
+P20,scroll,Touch
+P20,mark,Touch
+P20,clear,Touch
+P20,search,Touch
+P20,clearsearch,Touch
+P20,addtag,Touch
+P20,assigntag,Touch
+P20,selecttag,Touch
+P20,removetag,Touch
+P20,deletetag,Touch
