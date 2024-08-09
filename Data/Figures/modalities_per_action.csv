@@ -1,0 +1,3759 @@
+modality,person,subtask
+Speech,P3,search
+Touch,P4,open document
+Touch,P4,move document
+Touch,P4,move document
+Touch,P4,move document
+Speech,P3,search
+Speech,P4,search
+Touch,P3,open document
+Touch,P3,open document
+Touch,P3,move document
+Touch,P3,move document
+Touch,P3,move document
+Touch,P3,open document
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P4,add tag
+Speech,P4,add tag
+Speech,P3,search
+Touch,P4,select document
+Touch,P4,assign tag
+Touch,P3,open document
+Touch,P4,close document
+Touch,P3,scroll
+Touch,P3,mark sentence
+Touch,P4,mark sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,clear sentence
+Touch,P3,clear sentence
+Touch,P3,scroll
+Touch,P4,mark sentence
+Touch,P4,scroll
+Touch,P4,resize document
+Touch,P4,scroll
+Touch,P4,move document
+Touch,P3,search
+Touch,P3,select document
+Touch,P3,add tag
+Touch,P3,assign tag
+Touch,P3,deselect document
+Touch,P4,close document
+Touch,P4,move document
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P4,scroll
+Touch,P4,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,resize document
+Touch,P3,resize document
+Touch,P3,move document
+Touch,P3,resize document
+Touch,P3,resize document
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P4,move document
+Touch,P4,mark sentence
+Touch,P3,resize document
+Touch,P4,mark sentence
+Touch,P3,resize document
+Touch,P4,mark sentence
+Touch,P3,resize document
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P4,mark sentence
+Touch,P3,clear sentence
+Touch,P4,mark sentence
+Touch,P3,clear sentence
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,clear sentence
+Touch,P3,move document
+Touch,P4,clear sentence
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Speech,P3,search
+Speech,P4,close document
+Touch,P3,open document
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,close document
+Speech,P4,search
+Touch,P4,open document
+Touch,P3,open document
+Touch,P4,open document
+Touch,P3,move document
+Touch,P4,move selected docs
+Touch,P3,select document
+Touch,P3,deselect document
+Touch,P4,select document
+Touch,P4,assign tag
+Touch,P4,deselect document
+Touch,P3,mark sentence
+Touch,P3,mark sentence
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,clear sentence
+Touch,P3,mark sentence
+Touch,P3,mark sentence
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,clear sentence
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,clear sentence
+Touch,P3,clear sentence
+Touch,P3,move document
+Touch,P3,open document
+Touch,P3,select document
+Touch,P3,select document
+Touch,P3,add tag
+Touch,P3,move selected docs
+Touch,P3,add tag
+Touch,P3,select document
+Touch,P3,move selected docs
+Touch,P3,move document
+Touch,P3,add tag
+Touch,P3,assign tag
+Touch,P4,close document
+Touch,P3,move selected docs
+Touch,P3,deselect document
+Touch,P3,deselect document
+Touch,P3,deselect document
+Speech,P4,search
+Touch,P3,move document
+Touch,P3,move document
+Touch,P4,open document
+Touch,P3,move document
+Touch,P3,close document
+Touch,P3,move document
+Touch,P3,open document
+Touch,P3,open document
+Touch,P3,move document
+Touch,P4,move document
+Touch,P4,move document
+Touch,P4,move document
+Touch,P4,open document
+Touch,P3,open document
+Touch,P3,move document
+Touch,P4,move document
+Touch,P3,move document
+Touch,P3,move document
+Speech,P4,search
+Touch,P4,close document
+Touch,P4,move document
+Touch,P3,move document
+Touch,P3,close document
+Touch,P3,close document
+Touch,P3,close document
+Touch,P3,open document
+Touch,P3,open document
+Touch,P3,open document
+Touch,P4,mark sentence
+Touch,P4,mark sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Speech,P4,search
+Speech,P3,search
+Touch,P4,move document
+Touch,P4,open document
+Touch,P4,mark sentence
+Touch,P3,move document
+Touch,P3,open document
+Touch,P4,move document
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,move document
+Touch,P4,move document
+Touch,P4,open document
+Touch,P3,scroll
+Touch,P4,open document
+Touch,P4,close document
+Touch,P4,open document
+Touch,P3,mark sentence
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Speech,P4,delete tag
+Speech,P4,add tag
+Touch,P4,select document
+Touch,P4,select document
+Touch,P4,assign tag
+Touch,P4,deselect document
+Touch,P4,mark sentence
+Touch,P4,deselect document
+Touch,P4,close document
+Touch,P4,close document
+Touch,P4,move document
+Speech,P4,search
+Touch,P4,move document
+Touch,P4,mark sentence
+Touch,P3,mark sentence
+Touch,P4,move document
+Touch,P3,scroll
+Speech,P4,move document
+Touch,P3,clear sentence
+Touch,P4,open document
+Touch,P4,close document
+Touch,P4,move document
+Touch,P4,move document
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,scroll
+Touch,P4,scroll
+Touch,P4,clear sentence
+Speech,P4,close document
+Touch,P4,clear sentence
+Touch,P4,scroll
+Touch,P4,scroll
+Touch,P4,close document
+Touch,P4,open document
+Touch,P4,select document
+Touch,P4,assign tag
+Touch,P4,deselect document
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P4,select document
+Touch,P3,scroll
+Touch,P4,close document
+Touch,P4,move document
+Touch,P4,move selected docs
+Touch,P4,move document
+Touch,P4,select document
+Touch,P3,scroll
+Touch,P4,move selected docs
+Touch,P4,open document
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P4,close document
+Touch,P3,scroll
+Touch,P4,open document
+Touch,P4,close document
+Touch,P4,open document
+Touch,P4,close document
+Touch,P4,move document
+Touch,P4,open document
+Touch,P4,move document
+Touch,P4,move document
+Touch,P4,move document
+Touch,P4,mark sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,mark sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,select document
+Touch,P4,assign tag
+Touch,P4,deselect document
+Touch,P3,select document
+Touch,P3,add tag
+Touch,P3,assign tag
+Touch,P3,deselect document
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,open document
+Touch,P3,scroll
+Touch,P4,close document
+Touch,P3,search
+Touch,P4,search
+Touch,P4,clear search
+Touch,P3,mark sentence
+Touch,P3,scroll
+Touch,P4,search
+Touch,P3,mark sentence
+Touch,P4,clear search
+Touch,P3,clear sentence
+Touch,P3,clear sentence
+Touch,P4,search
+Touch,P3,close document
+Touch,P3,open document
+Touch,P4,clear search
+Touch,P4,search
+Touch,P4,mark sentence
+Touch,P4,clear sentence
+Touch,P4,search
+Touch,P3,move document
+Touch,P3,move document
+Touch,P4,open document
+Touch,P4,move document
+Touch,P4,move document
+Touch,P4,open document
+Touch,P4,move document
+Touch,P3,scroll
+Touch,P4,close document
+Touch,P3,close document
+Touch,P3,move document
+Touch,P4,clear search
+Touch,P3,open document
+Touch,P4,search
+Touch,P4,clear search
+Touch,P3,search
+Touch,P3,open document
+Touch,P3,close document
+Touch,P3,search
+Touch,P4,open document
+Touch,P4,move document
+Touch,P4,close document
+Touch,P3,close document
+Touch,P3,close document
+Touch,P4,open document
+Touch,P3,close document
+Touch,P4,move document
+Touch,P4,scroll
+Touch,P4,close document
+Touch,P3,scroll
+Touch,P3,scroll
+Touch,P3,resize document
+Touch,P3,scroll
+Touch,P3,open document
+Touch,P4,close document
+Touch,P3,close document
+Touch,P3,open document
+Touch,P3,close document
+Touch,P4,close document
+Touch,P3,sort
+Touch,P4,close document
+Touch,P3,close document
+Touch,P4,open document
+Touch,P4,close document
+Touch,P3,open document
+Touch,P4,open document
+Touch,P3,close document
+Touch,P3,open document
+Touch,P4,close document
+Touch,P4,open document
+Touch,P3,mark sentence
+Touch,P3,clear sentence
+Touch,P3,resize document
+Touch,P4,scroll
+Touch,P4,scroll
+Touch,P4,close document
+Touch,P4,move document
+Touch,P3,resize document
+Touch,P3,close document
+Touch,P4,open document
+Touch,P4,move document
+Touch,P3,open document
+Touch,P4,scroll
+Touch,P3,close document
+Touch,P4,scroll
+Touch,P4,mark sentence
+Speech,P3,search
+Touch,P4,open document
+Touch,P4,close document
+Touch,P3,search
+Touch,P3,select document
+Touch,P3,assign tag
+Touch,P3,deselect document
+Touch,P3,search
+Touch,P3,search
+Touch,P3,open document
+Touch,P3,close document
+Touch,P4,open document
+Touch,P4,close document
+Touch,P4,open document
+Touch,P4,close document
+Touch,P4,move document
+Touch,P4,search
+Touch,P4,close document
+Touch,P4,move document
+Touch,P4,open document
+Touch,P4,move document
+Touch,P4,close document
+Touch,P4,move document
+Touch,P3,open document
+Touch,P3,scroll
+Touch,P3,close document
+Touch,P4,open document
+Touch,P4,close document
+Speech,P5,sort
+Touch,P5,select document
+Touch,P5,select document
+Touch,P5,select document
+Touch,P5,select document
+Touch,P5,select document
+Touch,P5,deselect document
+Touch,P5,deselect document
+Touch,P5,deselect document
+Touch,P5,deselect document
+Touch,P5,deselect document
+Touch,P5,deselect document
+Touch,P5,open document
+Speech,P5,clear search
+Touch,P5,clear search
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,open document
+Touch,P6,scroll
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,close document
+Speech,P5,search
+Touch,P5,close document
+Touch,P5,open document
+Touch,P6,scroll
+Speech,P6,search
+Touch,P5,open document
+Touch,P5,resize document
+Touch,P6,move selected docs
+Touch,P6,mark sentence
+Touch,P6,move selected docs
+Touch,P5,resize document
+Touch,P5,resize document
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,mark sentence
+Touch,P5,close document
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,select document
+Touch,P5,close document
+Speech,P5,search
+Touch,P5,open document
+Touch,P5,move document
+Speech,P5,resize document
+Touch,P5,mark sentence
+Touch,P5,move document
+Touch,P5,move document
+Touch,P6,resize document
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Speech,P5,sort
+Speech,P5,sort
+Touch,P5,open document
+Touch,P5,scroll
+Touch,P6,mark sentence
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,scroll
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,close document
+Touch,P5,open document
+Touch,P6,mark sentence
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,open document
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,open document
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,mark sentence
+Touch,P5,scroll
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,mark sentence
+Touch,P5,scroll
+Touch,P5,mark sentence
+Touch,P6,scroll
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,clear sentence
+Touch,P6,scroll
+Touch,P6,scroll
+Touch,P6,mark sentence
+Touch,P5,scroll
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,resize document
+Touch,P5,scroll
+Touch,P6,mark sentence
+Touch,P5,mark sentence
+Touch,P6,clear sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P6,scroll
+Touch,P5,scroll
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P6,scroll
+Touch,P5,move document
+Touch,P6,scroll
+Touch,P6,scroll
+Touch,P6,scroll
+Touch,P6,scroll
+Touch,P6,scroll
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,open document
+Touch,P6,scroll
+Speech,P6,search
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,mark sentence
+Touch,P6,scroll
+Touch,P5,move document
+Touch,P6,open document
+Touch,P5,scroll
+Touch,P6,resize document
+Touch,P6,close document
+Touch,P6,open document
+Touch,P6,mark sentence
+Touch,P5,open document
+Touch,P6,clear sentence
+Touch,P6,resize document
+Touch,P6,mark sentence
+Touch,P5,close document
+Touch,P5,open document
+Touch,P6,clear sentence
+Touch,P6,mark sentence
+Touch,P6,clear sentence
+Touch,P6,resize document
+Touch,P6,mark sentence
+Touch,P6,close document
+Touch,P6,move document
+Touch,P6,move selected docs
+Touch,P5,mark sentence
+Touch,P6,open document
+Touch,P6,close document
+Touch,P6,open document
+Touch,P5,mark sentence
+Touch,P6,close document
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P6,mark sentence
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,move document
+Touch,P6,move document
+Touch,P5,move document
+Touch,P6,move document
+Touch,P6,move document
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,move document
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,close document
+Touch,P5,move document
+Touch,P5,open document
+Touch,P6,move selected docs
+Touch,P6,move selected docs
+Touch,P5,move document
+Touch,P6,open document
+Touch,P6,move document
+Touch,P5,open document
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,move document
+Touch,P5,close document
+Touch,P5,mark sentence
+Touch,P5,move document
+Touch,P5,move document
+Touch,P5,mark sentence
+Speech,P5,search
+Touch,P5,move selected docs
+Touch,P5,open document
+Touch,P6,open document
+Touch,P5,close document
+Touch,P6,move document
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,scroll
+Touch,P5,close document
+Touch,P5,close document
+Touch,P5,close document
+Touch,P5,move document
+Touch,P5,move document
+Touch,P5,open document
+Touch,P5,mark sentence
+Touch,P5,clear sentence
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P5,close document
+Touch,P5,open document
+Touch,P5,close document
+Touch,P5,mark sentence
+Touch,P5,move document
+Touch,P5,move document
+Touch,P5,open document
+Touch,P5,mark sentence
+Touch,P5,mark sentence
+Touch,P6,open document
+Touch,P6,close document
+Touch,P6,move document
+Touch,P6,open document
+Touch,P7,close document
+Touch,P7,close document
+Speech,P8,sort
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,move document
+Touch,P8,close document
+Touch,P8,move selected docs
+Touch,P8,close document
+Touch,P8,close document
+Speech,P7,deselect all
+Speech,P8,clear document
+Speech,P8,clear document
+Speech,P8,clear document
+Touch,P8,open document
+Touch,P8,close document
+Speech,P8,clear document
+Speech,P8,clear document
+Speech,P8,clear document
+Touch,P7,move document
+Touch,P8,open document
+Touch,P7,close document
+Touch,P7,move document
+Speech,P8,search
+Speech,P8,add tag
+Touch,P7,open document
+Touch,P8,assign tag
+Speech,P8,assign tag
+Touch,P7,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,deselect document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,close document
+Touch,P7,add tag
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P7,assign tag
+Touch,P8,select document
+Touch,P8,deselect document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P7,open document
+Touch,P8,select document
+Touch,P8,close document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,close document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,deselect document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,assign tag
+Touch,P8,search
+Touch,P8,clear search
+Touch,P7,select document
+Speech,P8,deselect document
+Touch,P7,close document
+Touch,P7,move selected docs
+Touch,P7,open document
+Touch,P7,move selected docs
+Speech,P8,deselect document
+Touch,P7,assign tag
+Speech,P8,deselect all
+Touch,P7,open document
+Touch,P7,select document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P7,assign tag
+Touch,P7,move document
+Speech,P8,search
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,mark sentence
+Touch,P7,clear sentence
+Touch,P7,mark sentence
+Touch,P7,mark sentence
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,deselect document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Speech,P7,add tag
+Touch,P8,select document
+Touch,P7,delete tag
+Touch,P8,close document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P7,add tag
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P8,select document
+Speech,P8,add tag
+Touch,P8,delete tag
+Touch,P8,open document
+Touch,P8,deselect document
+Touch,P7,select document
+Touch,P8,search
+Touch,P7,assign tag
+Touch,P7,open document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P8,search
+Touch,P7,select document
+Touch,P7,deselect document
+Touch,P7,select document
+Touch,P7,assign tag
+Touch,P7,assign tag
+Speech,P8,add tag
+Touch,P8,assign tag
+Speech,P8,deselect all
+Touch,P8,clear search
+Touch,P7,mark sentence
+Touch,P7,move document
+Touch,P7,close document
+Touch,P7,close document
+Touch,P8,open document
+Touch,P7,open document
+Touch,P7,close document
+Touch,P8,close document
+Touch,P7,open document
+Touch,P8,open document
+Touch,P7,select document
+Touch,P7,assign tag
+Touch,P7,close document
+Touch,P7,move document
+Touch,P7,open document
+Touch,P7,select document
+Touch,P7,move document
+Touch,P7,assign tag
+Speech,P8,sort
+Touch,P7,mark sentence
+Touch,P7,close document
+Speech,P8,search
+Touch,P8,open document
+Touch,P7,add tag
+Touch,P7,select document
+Touch,P7,deselect document
+Touch,P7,assign tag
+Touch,P7,deselect document
+Touch,P7,select document
+Touch,P7,select document
+Touch,P7,select document
+Touch,P7,assign tag
+Touch,P7,deselect document
+Touch,P7,deselect document
+Touch,P7,select document
+Touch,P7,deselect document
+Touch,P7,select document
+Touch,P7,move selected docs
+Touch,P7,deselect document
+Touch,P7,deselect document
+Touch,P8,open document
+Speech,P7,deselect all
+Speech,P7,search
+Touch,P7,select document
+Touch,P7,assign tag
+Speech,P8,search
+Touch,P8,open document
+Speech,P8,search
+Touch,P8,close document
+Touch,P8,move document
+Touch,P8,delete tag
+Touch,P8,search
+Speech,P7,deselect all
+Touch,P7,select document
+Touch,P8,select tagged
+Touch,P8,move selected docs
+Touch,P7,assign tag
+Speech,P8,deselect all
+Speech,P7,deselect all
+Speech,P7,sort
+Speech,P8,add tag
+Touch,P8,select document
+Touch,P8,deselect document
+Touch,P8,select document
+Touch,P8,select document
+Touch,P7,open document
+Touch,P7,close document
+Touch,P8,select document
+Touch,P8,deselect document
+Touch,P8,select document
+Touch,P8,assign tag
+Touch,P7,open document
+Speech,P8,deselect all
+Touch,P7,close document
+Touch,P7,open document
+Touch,P8,open document
+Touch,P7,close document
+Touch,P7,open document
+Speech,P8,search
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P8,open document
+Touch,P7,select document
+Touch,P7,assign tag
+Speech,P7,assign tag
+Touch,P8,close document
+Touch,P8,close document
+Touch,P7,assign tag
+Touch,P8,open document
+Touch,P7,add tag
+Touch,P7,remove tag
+Speech,P7,remove tag
+Touch,P7,open document
+Touch,P7,open document
+Touch,P7,open document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P7,open document
+Touch,P7,select document
+Touch,P7,assign tag
+Touch,P7,close document
+Touch,P8,mark sentence
+Touch,P8,clear sentence
+Touch,P8,close document
+Touch,P8,open document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,move document
+Touch,P7,move document
+Speech,P8,search
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,move document
+Touch,P7,move document
+Touch,P7,move document
+Touch,P7,open document
+Touch,P7,move document
+Touch,P7,close document
+Touch,P7,move document
+Touch,P7,close document
+Touch,P7,open document
+Speech,P8,search
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P8,move document
+Touch,P8,move document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,close document
+Touch,P7,open document
+Speech,P8,search
+Speech,P8,search
+Speech,P8,search
+Speech,P7,search
+Touch,P8,open document
+Touch,P8,close document
+Touch,P7,close document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P8,move document
+Touch,P8,open document
+Speech,P8,search
+Speech,P8,search
+Speech,P7,search
+Speech,P8,search
+Speech,P7,search
+Touch,P8,search
+Touch,P7,search
+Touch,P8,move document
+Touch,P8,resize document
+Touch,P8,resize document
+Touch,P8,resize document
+Touch,P8,move document
+Touch,P8,select document
+Touch,P8,resize document
+Touch,P8,deselect document
+Touch,P8,scroll
+Touch,P7,mark sentence
+Touch,P7,mark sentence
+Touch,P7,select document
+Touch,P7,assign tag
+Touch,P8,move document
+Touch,P8,open document
+Touch,P7,clear sentence
+Touch,P7,mark sentence
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,close document
+Touch,P8,move selected docs
+Touch,P8,open document
+Touch,P7,open document
+Touch,P8,search
+Touch,P8,clear search
+Touch,P8,clear search
+Touch,P8,search
+Touch,P7,close document
+Touch,P7,open document
+Touch,P8,open document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,search
+Touch,P8,scroll
+Touch,P7,search
+Speech,P7,sort
+Touch,P7,open document
+Touch,P7,mark sentence
+Touch,P7,mark sentence
+Touch,P7,mark sentence
+Touch,P7,open document
+Touch,P7,move document
+Speech,P8,search
+Speech,P8,search
+Speech,P8,search
+Touch,P7,move document
+Touch,P8,search
+Touch,P8,move document
+Touch,P8,move document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P7,search
+Touch,P7,search
+Touch,P7,open document
+Speech,P8,search
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,open document
+Touch,P7,mark sentence
+Touch,P7,scroll
+Touch,P8,open document
+Touch,P7,open document
+Touch,P7,resize document
+Touch,P7,resize document
+Touch,P7,move document
+Touch,P7,resize document
+Touch,P7,resize document
+Touch,P7,resize document
+Touch,P7,resize document
+Touch,P7,scroll
+Speech,P7,search
+Speech,P7,deselect document
+Speech,P7,deselect all
+Touch,P7,search
+Speech,P8,search
+Speech,P8,search
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,mark sentence
+Touch,P8,mark sentence
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,move document
+Touch,P7,open document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P7,select document
+Touch,P7,select document
+Touch,P7,add tag
+Touch,P7,assign tag
+Touch,P8,close document
+Touch,P8,move document
+Touch,P8,open document
+Touch,P8,scroll
+Touch,P7,scroll
+Touch,P7,mark sentence
+Touch,P7,mark sentence
+Touch,P7,clear sentence
+Touch,P7,scroll
+Touch,P8,search
+Touch,P8,open document
+Speech,P7,deselect document
+Touch,P7,open document
+Touch,P7,open document
+Touch,P8,close document
+Touch,P7,open document
+Touch,P8,close document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,open document
+Touch,P8,scroll
+Touch,P7,move document
+Touch,P7,open document
+Touch,P7,mark sentence
+Touch,P7,mark sentence
+Touch,P7,clear sentence
+Touch,P8,open document
+Speech,P7,deselect document
+Speech,P7,sort
+Touch,P8,close document
+Touch,P8,open document
+Touch,P8,close document
+Speech,P7,search
+Touch,P8,clear search
+Touch,P7,search
+Touch,P7,clear search
+Touch,P7,search
+Touch,P7,close document
+Touch,P7,close document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P7,close document
+Touch,P7,close document
+Touch,P7,move document
+Touch,P8,search
+Touch,P8,search
+Touch,P7,open document
+Touch,P8,search
+Touch,P7,open document
+Touch,P7,close document
+Touch,P7,open document
+Touch,P8,move document
+Touch,P8,scroll
+Touch,P7,open document
+Touch,P7,close document
+Touch,P7,move document
+Touch,P7,open document
+Touch,P7,mark sentence
+Touch,P7,move document
+Touch,P7,move document
+Speech,P10,add tag
+Speech,P9,close document
+Speech,P10,open document
+Touch,P9,close document
+Speech,P10,sort
+Touch,P10,open document
+Touch,P9,move document
+Touch,P9,close document
+Touch,P10,open document
+Touch,P9,move document
+Touch,P9,open document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P9,scroll
+Speech,P10,open document
+Touch,P9,scroll
+Speech,P10,close document
+Touch,P10,open document
+Touch,P10,close document
+Touch,P9,scroll
+Touch,P10,open document
+Touch,P10,mark sentence
+Touch,P10,clear sentence
+Touch,P10,mark sentence
+Touch,P10,clear sentence
+Touch,P10,close document
+Speech,P10,search
+Touch,P10,open document
+Touch,P9,close document
+Touch,P10,move document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P10,mark sentence
+Touch,P10,mark sentence
+Touch,P10,mark sentence
+Touch,P10,mark sentence
+Touch,P10,clear sentence
+Touch,P10,mark sentence
+Touch,P9,close document
+Touch,P9,open document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P9,scroll
+Speech,P10,add tag
+Touch,P9,mark sentence
+Touch,P9,clear sentence
+Touch,P9,scroll
+Touch,P9,move document
+Touch,P9,move document
+Speech,P10,select document
+Touch,P10,assign tag
+Speech,P10,assign tag
+Touch,P10,scroll
+Touch,P9,open document
+Touch,P10,open document
+Touch,P9,scroll
+Touch,P9,move document
+Touch,P9,scroll
+Speech,P10,select document
+Touch,P9,move document
+Touch,P9,mark sentence
+Touch,P10,assign tag
+Speech,P10,assign tag
+Touch,P9,mark sentence
+Touch,P10,scroll
+Touch,P9,scroll
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P9,move document
+Touch,P9,open document
+Touch,P9,mark sentence
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P10,deselect document
+Touch,P9,open document
+Touch,P10,remove tag
+Speech,P10,remove tag
+Touch,P10,mark sentence
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,close document
+Touch,P9,move document
+Touch,P9,open document
+Touch,P9,mark sentence
+Touch,P9,clear sentence
+Touch,P9,mark sentence
+Touch,P9,clear sentence
+Touch,P10,open document
+Touch,P9,move document
+Touch,P10,close document
+Touch,P9,close document
+Speech,P9,add tag
+Touch,P10,open document
+Touch,P9,assign tag
+Touch,P9,select document
+Touch,P9,assign tag
+Touch,P10,resize document
+Touch,P10,move document
+Touch,P10,close document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P10,close document
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,move document
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P9,scroll
+Touch,P10,close document
+Touch,P9,scroll
+Touch,P10,open document
+Touch,P10,scroll
+Touch,P10,close document
+Touch,P9,open document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P9,move document
+Touch,P9,move document
+Touch,P10,scroll
+Touch,P9,open document
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,delete tag
+Speech,P10,select document
+Touch,P10,deselect document
+Speech,P10,search
+Touch,P9,open document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,open document
+Touch,P9,close document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,search
+Touch,P9,search
+Touch,P9,open document
+Touch,P10,search
+Touch,P10,open document
+Touch,P9,close document
+Touch,P10,scroll
+Touch,P9,scroll
+Touch,P9,close document
+Touch,P9,move selected docs
+Touch,P9,open document
+Touch,P9,scroll
+Speech,P10,search
+Touch,P9,scroll
+Speech,P10,search
+Touch,P9,scroll
+Speech,P10,search
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P10,open document
+Touch,P9,scroll
+Touch,P9,move selected docs
+Touch,P9,move selected docs
+Touch,P9,close document
+Touch,P10,search
+Speech,P10,search
+Speech,P10,search
+Touch,P10,deselect document
+Touch,P9,close document
+Touch,P10,search
+Touch,P9,move document
+Touch,P9,close document
+Touch,P10,open document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P9,scroll
+Speech,P10,search
+Touch,P9,search
+Touch,P10,close document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P9,move selected docs
+Touch,P9,open document
+Touch,P10,open document
+Touch,P10,move document
+Touch,P10,move document
+Touch,P9,move document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P9,move document
+Touch,P9,move document
+Touch,P9,close document
+Touch,P9,mark sentence
+Touch,P9,mark sentence
+Touch,P10,search
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,search
+Touch,P9,open document
+Touch,P9,mark sentence
+Touch,P10,mark sentence
+Touch,P10,clear sentence
+Touch,P10,mark sentence
+Touch,P9,open document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P10,open document
+Touch,P9,move document
+Touch,P9,move document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P9,mark sentence
+Touch,P9,mark sentence
+Touch,P9,clear sentence
+Touch,P9,mark sentence
+Touch,P10,open document
+Touch,P10,move document
+Touch,P10,close document
+Touch,P10,move document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,open document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P10,search
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,scroll
+Touch,P9,move document
+Touch,P9,move document
+Touch,P9,close document
+Touch,P9,move selected docs
+Touch,P10,open document
+Touch,P9,open document
+Touch,P10,search
+Touch,P10,close document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,close document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P9,move document
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P9,close document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,move document
+Touch,P10,close document
+Touch,P10,open document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,search
+Touch,P9,close document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,search
+Touch,P10,open document
+Touch,P10,open document
+Touch,P9,close document
+Touch,P10,close document
+Touch,P10,close document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P10,open document
+Touch,P10,open document
+Touch,P10,open document
+Touch,P10,close document
+Touch,P10,close document
+Touch,P9,open document
+Touch,P10,search
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P9,open document
+Touch,P10,scroll
+Touch,P9,scroll
+Touch,P9,open document
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P9,move document
+Touch,P9,open document
+Touch,P9,close document
+Touch,P9,open document
+Touch,P9,move document
+Touch,P9,scroll
+Touch,P9,scroll
+Touch,P9,mark sentence
+Touch,P10,scroll
+Touch,P9,close document
+Touch,P9,move document
+Touch,P9,open document
+Touch,P10,scroll
+Touch,P10,scroll
+Touch,P9,move document
+Touch,P9,close document
+Touch,P10,scroll
+Touch,P10,move document
+Touch,P9,move document
+Touch,P10,scroll
+Touch,P10,scroll
+Speech,P11,sort
+Touch,P11,open document
+Touch,P11,move document
+Touch,P11,move document
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Touch,P12,move document
+Speech,P11,add tag
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,search
+Touch,P12,open document
+Speech,P11,search
+Touch,P11,move document
+Touch,P11,move document
+Touch,P11,delete tag
+Touch,P11,open document
+Touch,P11,close document
+Touch,P12,move document
+Speech,P11,search
+Speech,P11,add tag
+Touch,P11,open document
+Touch,P11,move document
+Touch,P11,add tag
+Touch,P11,delete tag
+Speech,P11,add tag
+Touch,P12,move document
+Touch,P12,mark sentence
+Touch,P12,mark sentence
+Touch,P12,mark sentence
+Touch,P11,assign tag
+Touch,P11,move document
+Touch,P11,select document
+Touch,P11,select document
+Touch,P11,select document
+Touch,P11,assign tag
+Touch,P11,remove tag
+Touch,P11,delete tag
+Touch,P11,add tag
+Touch,P11,assign tag
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P11,close document
+Touch,P11,move selected docs
+Touch,P11,open document
+Touch,P11,move selected docs
+Touch,P11,move selected docs
+Touch,P11,move selected docs
+Touch,P11,open document
+Touch,P11,move selected docs
+Touch,P11,open document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,move selected docs
+Touch,P11,open document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,scroll
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P12,close document
+Touch,P12,open document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,scroll
+Touch,P12,open document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,mark sentence
+Touch,P12,move document
+Touch,P11,scroll
+Touch,P12,open document
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,scroll
+Touch,P11,scroll
+Touch,P12,close document
+Touch,P11,mark sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P12,close document
+Touch,P12,move document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P12,move document
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,mark sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,mark sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,mark sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,close document
+Speech,P11,deselect all
+Touch,P12,open document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,mark sentence
+Touch,P12,mark sentence
+Touch,P12,clear sentence
+Touch,P12,mark sentence
+Touch,P12,clear sentence
+Touch,P12,clear sentence
+Touch,P12,close document
+Touch,P12,open document
+Touch,P12,move document
+Speech,P11,search
+Touch,P11,move document
+Touch,P11,open document
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,clear sentence
+Touch,P11,clear sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P12,close document
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,clear sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,move selected docs
+Touch,P11,open document
+Touch,P11,move selected docs
+Touch,P11,move selected docs
+Touch,P11,open document
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P11,scroll
+Touch,P11,scroll
+Touch,P12,mark sentence
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,mark sentence
+Touch,P12,clear sentence
+Touch,P12,scroll
+Touch,P11,scroll
+Touch,P11,close document
+Speech,P11,deselect all
+Touch,P12,mark sentence
+Touch,P11,search
+Touch,P12,mark sentence
+Touch,P11,search
+Touch,P11,move document
+Touch,P11,open document
+Touch,P12,mark sentence
+Touch,P12,clear sentence
+Touch,P12,mark sentence
+Touch,P11,close document
+Touch,P12,mark sentence
+Touch,P12,mark sentence
+Touch,P12,clear sentence
+Touch,P11,open document
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Touch,P11,select document
+Touch,P11,add tag
+Touch,P11,open document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,close document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P11,move document
+Touch,P11,open document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,close document
+Touch,P11,move document
+Touch,P11,move document
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Touch,P11,mark sentence
+Touch,P12,close document
+Touch,P12,open document
+Touch,P12,move document
+Touch,P11,mark sentence
+Touch,P11,clear sentence
+Touch,P11,mark sentence
+Speech,P11,select document
+Touch,P11,assign tag
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Speech,P11,sort
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,close document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,close document
+Touch,P12,open document
+Touch,P11,scroll
+Touch,P11,scroll
+Touch,P11,scroll
+Touch,P12,move document
+Touch,P12,close document
+Touch,P12,move selected docs
+Touch,P12,close document
+Touch,P12,search
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P11,search
+Speech,P11,deselect all
+Touch,P12,mark sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,mark sentence
+Touch,P11,open document
+Touch,P12,move document
+Touch,P12,mark sentence
+Touch,P12,clear sentence
+Touch,P12,mark sentence
+Touch,P12,clear sentence
+Touch,P12,mark sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,search
+Touch,P12,open document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P12,move document
+Touch,P12,move document
+Speech,P11,search
+Touch,P12,move document
+Speech,P11,search
+Speech,P11,search
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,close document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P12,clear sentence
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,open document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,open document
+Touch,P12,close document
+Touch,P12,close document
+Touch,P12,open document
+Touch,P12,move document
+Speech,P11,search
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,move document
+Speech,P11,search
+Touch,P12,move document
+Speech,P11,search
+Touch,P11,search
+Touch,P12,move document
+Touch,P11,move document
+Touch,P11,close document
+Touch,P11,open document
+Touch,P11,close document
+Touch,P12,move document
+Touch,P11,move document
+Touch,P11,move document
+Touch,P12,move document
+Touch,P11,open document
+Touch,P11,move document
+Touch,P12,mark sentence
+Touch,P11,close document
+Touch,P11,move document
+Touch,P11,move document
+Touch,P11,open document
+Touch,P11,move document
+Touch,P11,move document
+Touch,P12,move document
+Touch,P12,move document
+Touch,P12,close document
+Touch,P12,open document
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P11,close document
+Touch,P11,open document
+Touch,P12,scroll
+Touch,P12,scroll
+Touch,P11,close document
+Touch,P12,scroll
+Touch,P11,open document
+Touch,P12,scroll
+Touch,P13,open document
+Touch,P13,delete tag
+Touch,P13,clear search
+Touch,P13,close document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,open document
+Touch,P14,move document
+Touch,P14,mark sentence
+Touch,P14,clear sentence
+Touch,P14,move document
+Touch,P13,mark sentence
+Touch,P13,clear sentence
+Touch,P13,mark sentence
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,deselect all
+Touch,P14,move selected docs
+Speech,P14,open document
+Speech,P14,close document
+Touch,P13,move document
+Touch,P13,move document
+Speech,P14,open document
+Touch,P14,select document
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,mark sentence
+Touch,P13,scroll
+Speech,P14,close document
+Touch,P13,scroll
+Speech,P14,sort
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,close document
+Touch,P14,select document
+Touch,P14,deselect document
+Touch,P14,select document
+Touch,P14,deselect document
+Touch,P14,select document
+Touch,P14,move selected docs
+Touch,P14,move selected docs
+Touch,P13,select document
+Touch,P14,deselect document
+Touch,P14,select document
+Touch,P14,deselect document
+Touch,P14,select document
+Touch,P14,select document
+Touch,P14,move selected docs
+Touch,P14,move selected docs
+Touch,P13,select document
+Touch,P14,move selected docs
+Touch,P14,move selected docs
+Touch,P14,move document
+Touch,P14,move document
+Touch,P14,deselect document
+Touch,P14,move document
+Touch,P14,move document
+Touch,P14,move document
+Touch,P14,move document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P14,select document
+Touch,P14,move selected docs
+Touch,P13,open document
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P14,move selected docs
+Touch,P13,open document
+Touch,P13,mark sentence
+Touch,P13,mark sentence
+Speech,P14,open document
+Touch,P13,clear sentence
+Touch,P13,scroll
+Touch,P13,clear sentence
+Touch,P13,mark sentence
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P14,mark sentence
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,clear sentence
+Speech,P14,scroll
+Touch,P14,scroll
+Touch,P14,deselect document
+Touch,P14,close document
+Touch,P13,search
+Touch,P13,deselect document
+Touch,P13,close document
+Touch,P13,deselect document
+Touch,P13,deselect document
+Touch,P13,deselect document
+Touch,P13,deselect document
+Touch,P13,select document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,open document
+Speech,P14,select document
+Speech,P14,open document
+Touch,P13,mark sentence
+Touch,P13,move selected docs
+Touch,P13,clear sentence
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,scroll
+Speech,P14,close document
+Touch,P13,close document
+Touch,P13,clear search
+Touch,P14,open document
+Touch,P14,close document
+Touch,P13,search
+Touch,P13,deselect document
+Touch,P13,select document
+Touch,P13,select document
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,move document
+Touch,P13,open document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P14,open document
+Touch,P13,close document
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P14,close document
+Speech,P14,open document
+Touch,P14,move document
+Touch,P13,mark sentence
+Touch,P14,mark sentence
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,move selected docs
+Touch,P13,open document
+Speech,P14,scroll
+Touch,P14,scroll
+Speech,P14,close document
+Touch,P14,search
+Touch,P14,search
+Touch,P13,scroll
+Touch,P13,close document
+Touch,P13,move document
+Touch,P14,select document
+Touch,P14,deselect document
+Touch,P14,open document
+Touch,P13,open document
+Touch,P14,close document
+Touch,P13,close document
+Touch,P13,move selected docs
+Touch,P14,select document
+Touch,P14,select document
+Touch,P14,select document
+Touch,P14,select document
+Touch,P14,deselect document
+Touch,P13,open document
+Touch,P13,mark sentence
+Touch,P13,scroll
+Touch,P13,close document
+Touch,P13,select document
+Speech,P14,open document
+Touch,P13,move document
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,move selected docs
+Touch,P13,open document
+Speech,P14,close document
+Speech,P14,close document
+Speech,P14,open document
+Touch,P13,mark sentence
+Touch,P13,scroll
+Touch,P13,clear sentence
+Speech,P14,scroll
+Speech,P14,scroll
+Touch,P13,scroll
+Speech,P14,scroll
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,scroll
+Speech,P14,close document
+Touch,P13,scroll
+Speech,P14,open document
+Touch,P13,close document
+Touch,P13,search
+Touch,P13,search
+Touch,P13,clear search
+Touch,P13,clear search
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,close document
+Speech,P14,open document
+Touch,P13,search
+Touch,P13,open document
+Speech,P14,close document
+Speech,P14,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,close document
+Speech,P14,close document
+Speech,P14,open document
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Speech,P14,close document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,open document
+Touch,P13,mark sentence
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,close document
+Touch,P14,search
+Touch,P14,clear search
+Touch,P13,deselect document
+Touch,P14,search
+Touch,P13,open document
+Touch,P13,scroll
+Touch,P14,open document
+Touch,P13,scroll
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P14,mark sentence
+Touch,P14,close document
+Touch,P13,scroll
+Speech,P14,open document
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P13,scroll
+Touch,P14,scroll
+Touch,P14,scroll
+Touch,P14,mark sentence
+Touch,P14,scroll
+Touch,P14,scroll
+Touch,P14,scroll
+Touch,P14,move selected docs
+Touch,P14,open document
+Touch,P14,mark sentence
+Touch,P14,close document
+Touch,P14,open document
+Touch,P13,open document
+Touch,P14,close document
+Touch,P13,mark sentence
+Touch,P13,mark sentence
+Speech,P14,open document
+Touch,P14,scroll
+Touch,P13,select document
+Touch,P13,close document
+Touch,P13,deselect document
+Touch,P14,scroll
+Touch,P13,deselect document
+Touch,P13,move document
+Touch,P13,open document
+Touch,P13,close document
+Speech,P14,close document
+Touch,P13,select document
+Speech,P14,close document
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,move document
+Touch,P13,move selected docs
+Touch,P13,move selected docs
+Touch,P13,move document
+Touch,P13,move document
+Touch,P13,move selected docs
+Touch,P13,move document
+Touch,P13,open document
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,close document
+Touch,P13,move document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,mark sentence
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P14,search
+Touch,P13,open document
+Touch,P13,search
+Touch,P13,add tag
+Touch,P13,assign tag
+Touch,P14,open document
+Touch,P13,deselect all
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,scroll
+Touch,P13,open document
+Touch,P13,scroll
+Touch,P14,close document
+Touch,P14,move document
+Touch,P14,move document
+Touch,P14,move document
+Touch,P14,move document
+Touch,P14,open document
+Touch,P13,scroll
+Touch,P14,mark sentence
+Touch,P14,clear sentence
+Touch,P14,mark sentence
+Touch,P13,select document
+Touch,P13,move selected docs
+Touch,P13,open document
+Touch,P14,open document
+Touch,P13,scroll
+Touch,P13,move selected docs
+Touch,P14,mark sentence
+Touch,P13,scroll
+Touch,P14,scroll
+Touch,P14,close document
+Touch,P14,open document
+Touch,P13,scroll
+Touch,P13,clear search
+Touch,P14,clear search
+Touch,P13,search
+Touch,P13,scroll
+Touch,P13,close document
+Touch,P13,close document
+Touch,P13,move document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,move document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,open document
+Touch,P13,close document
+Touch,P13,move document
+Speech,P16,deselect all
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,open document
+Touch,P15,open document
+Touch,P16,resize document
+Touch,P15,scroll
+Touch,P15,select document
+Touch,P15,deselect document
+Touch,P16,sort
+Touch,P16,close document
+Touch,P16,close document
+Touch,P16,open document
+Touch,P16,close document
+Touch,P15,select document
+Touch,P15,move selected docs
+Touch,P16,open document
+Touch,P15,move selected docs
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,open document
+Touch,P15,move selected docs
+Touch,P15,move selected docs
+Touch,P16,mark sentence
+Touch,P16,mark sentence
+Touch,P16,clear sentence
+Touch,P16,clear sentence
+Touch,P16,mark sentence
+Touch,P16,search
+Touch,P15,move selected docs
+Touch,P15,resize document
+Touch,P16,search
+Touch,P15,resize document
+Touch,P16,open document
+Touch,P16,resize document
+Touch,P16,close document
+Touch,P15,deselect document
+Touch,P15,close document
+Touch,P15,move document
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,select document
+Touch,P16,add tag
+Touch,P16,assign tag
+Touch,P16,remove tag
+Speech,P16,assign tag
+Touch,P16,assign tag
+Touch,P15,close document
+Touch,P15,select document
+Touch,P15,open document
+Touch,P16,select document
+Touch,P16,deselect document
+Touch,P16,open document
+Touch,P15,close document
+Touch,P16,close document
+Touch,P16,select document
+Touch,P16,open document
+Touch,P16,select document
+Touch,P16,close document
+Touch,P16,open document
+Touch,P16,select document
+Touch,P16,close document
+Touch,P15,select document
+Touch,P16,open document
+Touch,P15,select document
+Touch,P16,select document
+Touch,P16,deselect document
+Touch,P16,close document
+Touch,P16,select document
+Touch,P15,select document
+Touch,P16,open document
+Touch,P16,select document
+Touch,P16,close document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P16,select document
+Touch,P15,select document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,select document
+Touch,P16,open document
+Touch,P16,close document
+Touch,P15,select document
+Touch,P15,deselect document
+Touch,P15,select document
+Touch,P16,select document
+Touch,P16,open document
+Touch,P16,close document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P16,open document
+Touch,P16,close document
+Touch,P15,move selected docs
+Touch,P16,move selected docs
+Touch,P16,deselect document
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,move selected docs
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,open document
+Touch,P16,close document
+Touch,P16,select document
+Touch,P16,select document
+Touch,P16,select document
+Touch,P16,select document
+Touch,P16,select document
+Touch,P16,select document
+Touch,P16,select document
+Touch,P16,select document
+Touch,P16,move selected docs
+Touch,P16,open document
+Touch,P15,deselect document
+Touch,P15,select document
+Speech,P15,deselect all
+Touch,P15,open document
+Touch,P16,move document
+Touch,P15,close document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,open document
+Touch,P16,select document
+Speech,P16,move selected docs
+Speech,P16,deselect all
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P16,mark sentence
+Touch,P16,clear sentence
+Touch,P15,move document
+Touch,P16,mark sentence
+Touch,P16,mark sentence
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,move document
+Touch,P16,select document
+Touch,P16,mark sentence
+Touch,P16,clear sentence
+Touch,P16,mark sentence
+Touch,P15,scroll
+Touch,P16,mark sentence
+Touch,P15,close document
+Touch,P15,move document
+Touch,P16,mark sentence
+Touch,P15,move document
+Touch,P15,open document
+Touch,P15,move document
+Touch,P16,mark sentence
+Touch,P16,resize document
+Speech,P16,move selected docs
+Touch,P15,close document
+Touch,P15,move document
+Touch,P16,open document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,open document
+Touch,P15,move document
+Touch,P16,mark sentence
+Touch,P15,close document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,open document
+Touch,P16,select document
+Touch,P15,close document
+Touch,P15,move document
+Touch,P15,move document
+Speech,P16,move selected docs
+Touch,P15,move document
+Touch,P15,open document
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P15,close document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,open document
+Touch,P15,scroll
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,move document
+Touch,P16,open document
+Touch,P16,resize document
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,move document
+Touch,P15,move document
+Touch,P15,mark sentence
+Touch,P15,scroll
+Touch,P16,close document
+Touch,P16,move document
+Touch,P16,open document
+Touch,P15,mark sentence
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,mark sentence
+Touch,P16,clear sentence
+Touch,P16,close document
+Touch,P15,scroll
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,move document
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P15,move document
+Touch,P15,scroll
+Touch,P16,move document
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,mark sentence
+Touch,P16,select document
+Touch,P15,scroll
+Speech,P16,move selected docs
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,move selected docs
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,deselect document
+Touch,P16,open document
+Touch,P16,move document
+Touch,P15,scroll
+Touch,P16,close document
+Touch,P16,open document
+Touch,P15,move document
+Touch,P15,resize document
+Touch,P16,close document
+Touch,P16,move document
+Touch,P15,scroll
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P16,close document
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,scroll
+Touch,P16,close document
+Touch,P16,move document
+Touch,P15,scroll
+Touch,P16,search
+Touch,P16,search
+Touch,P16,open document
+Touch,P16,close document
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P15,close document
+Touch,P15,move document
+Touch,P16,search
+Touch,P16,open document
+Touch,P15,move document
+Touch,P16,search
+Touch,P16,move document
+Touch,P16,open document
+Touch,P16,mark sentence
+Touch,P16,clear sentence
+Touch,P16,scroll
+Touch,P16,scroll
+Touch,P16,close document
+Touch,P16,open document
+Touch,P16,move document
+Touch,P16,close document
+Touch,P16,open document
+Touch,P16,move document
+Touch,P16,scroll
+Touch,P15,scroll
+Touch,P16,search
+Touch,P16,clear search
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,search
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,close document
+Touch,P15,move document
+Touch,P16,search
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,move document
+Touch,P15,open document
+Touch,P15,clear sentence
+Touch,P15,scroll
+Touch,P15,close document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,open document
+Touch,P15,open document
+Touch,P15,close document
+Touch,P15,close document
+Touch,P16,search
+Touch,P15,open document
+Touch,P16,move document
+Touch,P15,close document
+Touch,P15,open document
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,search
+Touch,P15,close document
+Touch,P16,search
+Touch,P15,close document
+Touch,P15,move document
+Touch,P16,open document
+Touch,P16,close document
+Touch,P16,open document
+Touch,P15,open document
+Touch,P16,search
+Touch,P15,close document
+Touch,P15,open document
+Touch,P16,search
+Touch,P16,open document
+Touch,P16,close document
+Touch,P15,move document
+Touch,P15,search
+Touch,P16,search
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P16,resize document
+Touch,P16,close document
+Touch,P15,scroll
+Touch,P16,search
+Touch,P15,scroll
+Touch,P16,open document
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,clear sentence
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P15,scroll
+Touch,P16,open document
+Touch,P16,move document
+Touch,P16,move document
+Touch,P15,mark sentence
+Touch,P16,open document
+Touch,P15,clear sentence
+Touch,P15,move document
+Touch,P15,open document
+Touch,P15,scroll
+Touch,P16,search
+Touch,P16,search
+Touch,P17,select document
+Speech,P17,remove tag
+Touch,P17,remove tag
+Speech,P17,select document
+Touch,P17,deselect document
+Touch,P17,deselect document
+Touch,P18,mark sentence
+Touch,P18,move document
+Touch,P18,close document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P18,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P18,move document
+Touch,P18,open document
+Touch,P18,move document
+Touch,P18,move document
+Touch,P18,move document
+Touch,P18,close document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Speech,P18,add tag
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,delete tag
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,add tag
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,select tagged
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P18,select document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move selected docs
+Touch,P18,select tagged
+Touch,P18,assign tag
+Touch,P17,move document
+Speech,P17,search
+Speech,P17,move selected docs
+Touch,P18,select document
+Touch,P18,assign tag
+Touch,P18,remove tag
+Touch,P18,assign tag
+Speech,P17,add tag
+Touch,P17,assign tag
+Speech,P17,assign tag
+Speech,P18,search
+Touch,P18,open document
+Speech,P17,search
+Speech,P18,search
+Touch,P17,select document
+Touch,P18,open document
+Touch,P17,select document
+Touch,P18,mark sentence
+Touch,P18,move document
+Touch,P18,resize document
+Touch,P17,assign tag
+Speech,P17,assign tag
+Touch,P18,mark sentence
+Speech,P17,move selected docs
+Touch,P18,scroll
+Touch,P18,clear sentence
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P18,move document
+Touch,P18,close document
+Touch,P17,move selected docs
+Touch,P18,move document
+Touch,P18,open document
+Touch,P18,resize document
+Touch,P17,move selected docs
+Touch,P17,open document
+Touch,P17,move selected docs
+Touch,P17,move selected docs
+Touch,P17,move selected docs
+Touch,P17,move selected docs
+Touch,P17,open document
+Speech,P18,add tag
+Touch,P17,scroll
+Touch,P18,delete tag
+Touch,P17,scroll
+Touch,P17,close document
+Touch,P17,open document
+Touch,P18,add tag
+Touch,P18,select document
+Touch,P17,scroll
+Touch,P18,assign tag
+Touch,P17,close document
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P17,move selected docs
+Touch,P17,move document
+Touch,P18,resize document
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P17,open document
+Touch,P17,close document
+Touch,P18,scroll
+Speech,P17,search
+Touch,P18,scroll
+Touch,P17,deselect document
+Touch,P17,deselect document
+Touch,P18,close document
+Touch,P18,open document
+Touch,P18,move selected docs
+Touch,P18,deselect document
+Touch,P18,deselect document
+Touch,P18,deselect document
+Touch,P18,open document
+Touch,P18,move document
+Touch,P18,close document
+Touch,P18,move document
+Touch,P18,move document
+Touch,P18,select document
+Speech,P17,select document
+Touch,P18,remove tag
+Touch,P18,deselect document
+Touch,P18,open document
+Touch,P18,move document
+Speech,P17,move selected docs
+Touch,P17,move selected docs
+Touch,P18,move document
+Touch,P17,open document
+Touch,P17,close document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,open document
+Touch,P17,mark sentence
+Touch,P17,close document
+Touch,P18,move document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P17,open document
+Touch,P17,close document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P18,resize document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,open document
+Touch,P17,close document
+Touch,P17,move selected docs
+Touch,P17,move selected docs
+Touch,P17,open document
+Touch,P17,mark sentence
+Touch,P18,scroll
+Touch,P18,close document
+Touch,P18,move document
+Touch,P18,open document
+Touch,P17,scroll
+Speech,P18,search
+Touch,P17,deselect document
+Touch,P17,select document
+Touch,P17,close document
+Touch,P17,open document
+Touch,P17,move selected docs
+Touch,P17,open document
+Touch,P18,close document
+Touch,P18,move document
+Touch,P17,close document
+Touch,P17,delete tag
+Touch,P18,move document
+Speech,P17,add tag
+Touch,P17,delete tag
+Speech,P18,search
+Touch,P18,open document
+Speech,P17,add tag
+Speech,P17,assign tag
+Touch,P17,assign tag
+Touch,P17,deselect document
+Touch,P17,deselect document
+Speech,P17,search
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,select document
+Touch,P17,select document
+Touch,P17,select document
+Speech,P17,add tag
+Touch,P17,assign tag
+Speech,P17,assign tag
+Touch,P17,open document
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P18,mark sentence
+Touch,P18,mark sentence
+Speech,P18,search
+Touch,P18,close document
+Touch,P18,search
+Touch,P18,open document
+Touch,P18,close document
+Touch,P18,open document
+Touch,P18,scroll
+Touch,P18,close document
+Touch,P18,open document
+Touch,P18,scroll
+Touch,P18,mark sentence
+Touch,P18,mark sentence
+Touch,P18,clear sentence
+Touch,P18,mark sentence
+Touch,P18,mark sentence
+Touch,P18,clear sentence
+Touch,P18,mark sentence
+Touch,P18,scroll
+Touch,P17,close document
+Touch,P17,open document
+Touch,P18,close document
+Touch,P18,move document
+Touch,P18,open document
+Touch,P18,move document
+Touch,P18,mark sentence
+Touch,P18,mark sentence
+Touch,P18,clear sentence
+Speech,P18,search
+Touch,P17,close document
+Touch,P17,open document
+Touch,P17,close document
+Touch,P18,open document
+Touch,P18,close document
+Touch,P18,open document
+Touch,P18,close document
+Touch,P18,open document
+Touch,P17,scroll
+Touch,P18,scroll
+Touch,P18,mark sentence
+Speech,P18,search
+Touch,P18,close document
+Touch,P18,open document
+Touch,P18,scroll
+Touch,P17,scroll
+Touch,P17,scroll
+Touch,P17,resize document
+Touch,P18,open document
+Touch,P18,move document
+Touch,P18,mark sentence
+Touch,P17,move document
+Touch,P17,open document
+Touch,P17,move document
+Touch,P18,search
+Touch,P18,search
+Touch,P18,search
+Touch,P18,search
+Touch,P18,open document
+Touch,P18,close document
+Touch,P18,open document
+Touch,P17,open document
+Touch,P18,close document
+Touch,P18,open document
+Touch,P18,scroll
+Touch,P18,close document
+Touch,P17,move document
+Touch,P17,mark sentence
+Speech,P18,search
+Touch,P17,move document
+Touch,P17,close document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P18,open document
+Touch,P18,move document
+Touch,P18,close document
+Touch,P17,close document
+Touch,P17,move document
+Touch,P17,close document
+Touch,P17,move document
+Touch,P17,close document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,open document
+Speech,P18,search
+Touch,P18,close document
+Touch,P18,open document
+Touch,P18,scroll
+Touch,P17,resize document
+Speech,P18,add tag
+Touch,P17,scroll
+Touch,P18,scroll
+Touch,P18,scroll
+Touch,P17,clear search
+Touch,P18,scroll
+Touch,P17,scroll
+Touch,P18,scroll
+Touch,P17,search
+Touch,P18,scroll
+Touch,P17,move document
+Touch,P17,move document
+Touch,P17,open document
+Touch,P17,move document
+Touch,P17,close document
+Touch,P17,open document
+Touch,P17,open document
+Speech,P18,search
+Touch,P17,close document
+Touch,P17,open document
+Touch,P17,move document
+Touch,P17,close document
+Touch,P18,search
+Touch,P17,close document
+Touch,P18,search
+Touch,P18,search
+Touch,P17,scroll
+Touch,P18,move document
+Touch,P18,open document
+Touch,P17,move document
+Touch,P17,open document
+Touch,P17,move document
+Touch,P18,move document
+Touch,P18,mark sentence
+Touch,P18,clear sentence
+Touch,P18,move document
+Touch,P18,close document
+Touch,P17,mark sentence
+Touch,P18,move document
+Touch,P17,move document
+Touch,P17,clear sentence
+Touch,P17,mark sentence
+Touch,P18,move document
+Touch,P18,open document
+Touch,P17,mark sentence
+Touch,P17,mark sentence
+Touch,P18,mark sentence
+Touch,P17,mark sentence
+Touch,P17,mark sentence
+Touch,P18,clear sentence
+Touch,P18,mark sentence
+Touch,P18,scroll
+Touch,P18,search
+Touch,P18,move document
+Touch,P18,open document
+Touch,P20,select document
+Touch,P20,add tag
+Speech,P19,deselect all
+Touch,P20,select document
+Speech,P19,sort
+Touch,P19,close document
+Speech,P19,sort
+Touch,P20,deselect document
+Speech,P20,deselect all
+Touch,P20,select document
+Touch,P20,assign tag
+Touch,P19,open document
+Touch,P20,move selected docs
+Touch,P20,open document
+Touch,P19,scroll
+Speech,P19,close document
+Touch,P20,close document
+Speech,P19,mark sentence
+Speech,P19,add tag
+Touch,P20,search
+Touch,P20,clear search
+Touch,P20,search
+Touch,P20,move document
+Touch,P20,open document
+Speech,P19,search
+Speech,P19,search
+Touch,P19,move document
+Touch,P19,mark sentence
+Touch,P20,mark sentence
+Touch,P20,mark sentence
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P20,close document
+Touch,P19,search
+Touch,P20,move document
+Touch,P20,open document
+Touch,P19,search
+Touch,P20,close document
+Touch,P20,open document
+Touch,P20,clear sentence
+Touch,P20,clear sentence
+Touch,P20,close document
+Touch,P20,search
+Speech,P19,assign tag
+Touch,P19,assign tag
+Touch,P19,open document
+Touch,P19,close document
+Touch,P20,open document
+Touch,P20,clear sentence
+Touch,P20,close document
+Touch,P20,open document
+Speech,P19,select document
+Speech,P19,add tag
+Touch,P20,close document
+Speech,P19,assign tag
+Touch,P19,assign tag
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,search
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,search
+Touch,P19,move document
+Touch,P20,move document
+Touch,P19,scroll
+Touch,P20,open document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,close document
+Speech,P19,search
+Touch,P19,open document
+Touch,P19,close document
+Touch,P20,open document
+Speech,P19,move document
+Touch,P20,move selected docs
+Touch,P19,move document
+Touch,P20,open document
+Touch,P19,move document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,move document
+Touch,P20,close document
+Touch,P20,open document
+Touch,P20,close document
+Touch,P20,move document
+Touch,P20,close document
+Touch,P19,open document
+Touch,P20,search
+Speech,P19,search
+Touch,P19,open document
+Touch,P20,move document
+Touch,P20,close document
+Touch,P20,move document
+Touch,P20,move document
+Touch,P20,select document
+Touch,P20,select document
+Touch,P20,select document
+Touch,P20,deselect document
+Touch,P19,move document
+Touch,P20,add tag
+Touch,P20,assign tag
+Touch,P20,move selected docs
+Touch,P20,move selected docs
+Touch,P20,move selected docs
+Touch,P20,deselect document
+Touch,P20,deselect document
+Touch,P19,select document
+Touch,P20,add tag
+Touch,P20,assign tag
+Touch,P19,open document
+Touch,P19,deselect document
+Touch,P20,select document
+Touch,P20,assign tag
+Touch,P19,close document
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P20,open document
+Touch,P20,close document
+Touch,P19,mark sentence
+Touch,P20,search
+Touch,P19,scroll
+Touch,P20,select document
+Touch,P19,scroll
+Touch,P20,resize document
+Touch,P19,move selected docs
+Touch,P19,open document
+Touch,P19,resize document
+Touch,P20,search
+Touch,P19,close document
+Touch,P19,move selected docs
+Touch,P20,deselect document
+Touch,P19,move document
+Speech,P20,deselect document
+Touch,P19,move document
+Touch,P19,move selected docs
+Touch,P19,move document
+Speech,P20,deselect all
+Touch,P19,move document
+Touch,P19,move document
+Touch,P19,open document
+Touch,P20,move document
+Touch,P20,move document
+Touch,P20,move document
+Touch,P20,move document
+Touch,P19,select document
+Touch,P19,select document
+Touch,P19,select document
+Touch,P19,select document
+Touch,P19,select document
+Touch,P19,select document
+Touch,P19,select document
+Touch,P19,select document
+Touch,P19,deselect document
+Touch,P19,select document
+Touch,P20,move selected docs
+Touch,P20,move selected docs
+Touch,P19,deselect document
+Touch,P19,deselect document
+Touch,P19,deselect document
+Touch,P19,deselect document
+Touch,P19,deselect document
+Touch,P19,deselect document
+Touch,P19,deselect document
+Touch,P19,deselect document
+Speech,P20,sort
+Speech,P19,add tag
+Touch,P20,search
+Touch,P20,close document
+Touch,P19,add tag
+Touch,P19,select document
+Touch,P19,assign tag
+Touch,P19,move document
+Touch,P19,open document
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P19,close document
+Speech,P20,close document
+Touch,P19,move document
+Touch,P19,move document
+Touch,P19,move document
+Touch,P19,move document
+Touch,P19,move document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,move document
+Touch,P19,open document
+Touch,P20,move document
+Touch,P20,open document
+Touch,P20,close document
+Touch,P20,open document
+Touch,P20,scroll
+Touch,P20,scroll
+Touch,P20,scroll
+Touch,P20,close document
+Touch,P20,move document
+Touch,P20,search
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P20,move selected docs
+Touch,P20,open document
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P19,mark sentence
+Touch,P19,scroll
+Touch,P19,resize document
+Touch,P19,scroll
+Touch,P20,select document
+Touch,P19,mark sentence
+Touch,P20,add tag
+Touch,P20,assign tag
+Touch,P20,close document
+Touch,P20,open document
+Touch,P20,close document
+Touch,P20,open document
+Touch,P20,close document
+Touch,P20,move selected docs
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P20,move selected docs
+Touch,P20,search
+Touch,P19,scroll
+Touch,P19,scroll
+Speech,P19,search
+Speech,P19,search
+Touch,P20,search
+Touch,P19,close document
+Touch,P20,open document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,close document
+Touch,P19,mark sentence
+Touch,P19,scroll
+Touch,P20,open document
+Touch,P20,scroll
+Touch,P20,close document
+Touch,P19,scroll
+Touch,P19,close document
+Touch,P19,clear search
+Touch,P19,open document
+Touch,P20,clear search
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,search
+Touch,P19,search
+Touch,P19,search
+Touch,P19,close document
+Touch,P20,open document
+Touch,P19,search
+Touch,P20,mark sentence
+Touch,P20,clear sentence
+Touch,P20,mark sentence
+Touch,P19,open document
+Touch,P20,mark sentence
+Touch,P20,select document
+Touch,P20,assign tag
+Touch,P19,close document
+Touch,P20,deselect document
+Touch,P20,deselect document
+Touch,P20,move document
+Touch,P20,close document
+Touch,P19,open document
+Touch,P20,search
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P20,open document
+Touch,P19,search
+Touch,P19,search
+Touch,P20,close document
+Touch,P20,open document
+Touch,P20,close document
+Touch,P19,search
+Touch,P19,open document
+Touch,P20,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,move document
+Touch,P20,close document
+Touch,P20,move document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P20,open document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P20,move document
+Touch,P19,open document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P20,open document
+Touch,P20,mark sentence
+Touch,P20,close document
+Touch,P20,scroll
+Touch,P20,scroll
+Touch,P20,scroll
+Touch,P20,open document
+Touch,P19,open document
+Touch,P19,move document
+Touch,P19,close document
+Speech,P19,search
+Speech,P19,search
+Touch,P19,search
+Touch,P19,search
+Touch,P20,move document
+Touch,P19,open document
+Touch,P19,scroll
+Touch,P19,open document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P20,search
+Touch,P19,resize document
+Touch,P19,resize document
+Touch,P19,scroll
+Touch,P20,close document
+Touch,P20,open document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P20,move document
+Touch,P19,scroll
+Touch,P20,clear sentence
+Touch,P20,mark sentence
+Touch,P20,clear sentence
+Touch,P19,scroll
+Touch,P20,scroll
+Touch,P20,move document
+Touch,P19,search
+Touch,P19,close document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,close document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,move document
+Touch,P20,select document
+Touch,P20,search
+Touch,P20,add tag
+Touch,P20,assign tag
+Touch,P20,deselect document
+Touch,P20,select document
+Touch,P20,assign tag
+Touch,P19,open document
+Touch,P20,move document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,close document
+Touch,P20,move document
+Touch,P20,move document
+Touch,P19,search
+Touch,P20,move document
+Touch,P19,open document
+Touch,P20,open document
+Touch,P19,close document
+Touch,P19,search
+Touch,P19,move document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,close document
+Touch,P20,open document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P20,mark sentence
+Touch,P20,close document
+Touch,P20,select document
+Speech,P20,deselect all
+Touch,P20,select document
+Touch,P20,assign tag
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,search
+Touch,P20,close document
+Touch,P19,open document
+Touch,P20,open document
+Touch,P19,scroll
+Touch,P19,close document
+Touch,P19,move document
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P20,search
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,add tag
+Touch,P20,select document
+Touch,P19,mark sentence
+Touch,P19,mark sentence
+Touch,P19,clear sentence
+Touch,P20,assign tag
+Touch,P20,remove tag
+Touch,P19,clear sentence
+Touch,P19,close document
+Touch,P19,open document
+Touch,P20,add tag
+Touch,P20,assign tag
+Speech,P20,deselect all
+Touch,P19,close document
+Touch,P19,open document
+Touch,P19,close document
+Touch,P20,select document
+Touch,P20,assign tag
+Touch,P20,close document
+Touch,P20,move selected docs
+Touch,P20,open document
+Touch,P19,open document
+Touch,P19,search
+Touch,P20,close document
+Touch,P20,open document
+Touch,P19,search
+Touch,P20,scroll
+Touch,P19,move document
+Touch,P19,open document
+Touch,P19,resize document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P20,mark sentence
+Touch,P19,move document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P20,scroll
+Touch,P20,move document
+Touch,P20,scroll
+Touch,P19,scroll
+Touch,P20,close document
+Touch,P20,move selected docs
+Touch,P20,move document
+Touch,P20,select document
+Touch,P20,assign tag
+Touch,P20,deselect document
+Touch,P19,open document
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,scroll
+Touch,P19,scroll
+Speech,P21,sort
+Touch,P21,open document
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,mark sentence
+Touch,P22,search
+Touch,P21,resize document
+Touch,P21,resize document
+Touch,P21,move document
+Touch,P21,move document
+Touch,P21,move document
+Touch,P21,move document
+Touch,P21,move document
+Touch,P21,move document
+Touch,P22,search
+Touch,P22,open document
+Touch,P22,search
+Touch,P22,open document
+Touch,P21,search
+Touch,P21,open document
+Touch,P21,move document
+Touch,P22,search
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,mark sentence
+Touch,P22,search
+Touch,P21,close document
+Touch,P21,open document
+Touch,P22,mark sentence
+Touch,P22,move document
+Touch,P22,clear sentence
+Touch,P22,add tag
+Touch,P22,add tag
+Touch,P22,add tag
+Touch,P22,add tag
+Touch,P22,search
+Touch,P22,open document
+Touch,P22,open document
+Touch,P22,move document
+Touch,P21,search
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,mark sentence
+Touch,P22,move document
+Touch,P21,mark sentence
+Touch,P21,mark sentence
+Touch,P21,clear sentence
+Touch,P21,mark sentence
+Touch,P21,close document
+Touch,P22,search
+Touch,P22,open document
+Touch,P22,mark sentence
+Touch,P22,close document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P22,move document
+Touch,P21,move document
+Touch,P22,close document
+Touch,P22,close document
+Touch,P22,add tag
+Touch,P22,search
+Touch,P22,open document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P22,mark sentence
+Touch,P22,mark sentence
+Touch,P21,move document
+Touch,P22,move document
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,open document
+Touch,P21,resize document
+Touch,P22,move document
+Touch,P22,close document
+Touch,P21,search
+Touch,P22,search
+Touch,P22,open document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P22,close document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P22,open document
+Touch,P22,close document
+Touch,P22,search
+Touch,P22,open document
+Touch,P22,mark sentence
+Touch,P22,scroll
+Touch,P22,open document
+Touch,P21,move document
+Touch,P21,move document
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,clear sentence
+Touch,P21,close document
+Touch,P21,resize document
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,mark sentence
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,mark sentence
+Touch,P22,move document
+Touch,P22,select tagged
+Touch,P22,select tagged
+Touch,P22,search
+Touch,P22,open document
+Touch,P22,move document
+Touch,P21,search
+Touch,P21,move document
+Touch,P21,move document
+Touch,P21,move document
+Touch,P22,mark sentence
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,mark sentence
+Touch,P22,mark sentence
+Touch,P21,open document
+Touch,P22,search
+Touch,P21,move document
+Touch,P21,move document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P22,close document
+Touch,P21,close document
+Touch,P21,search
+Touch,P21,open document
+Touch,P22,clear search
+Touch,P22,search
+Touch,P21,close document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P21,close document
+Touch,P21,move document
+Touch,P21,open document
+Touch,P22,open document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,close document
+Touch,P22,move document
+Touch,P21,open document
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P22,mark sentence
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,clear sentence
+Touch,P22,resize document
+Touch,P21,select document
+Touch,P22,move selected docs
+Touch,P22,close document
+Touch,P21,deselect document
+Touch,P22,resize document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P21,close document
+Touch,P22,open document
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,move document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P22,move document
+Touch,P22,close document
+Touch,P21,open document
+Touch,P22,search
+Touch,P21,move document
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P22,open document
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P22,search
+Touch,P21,mark sentence
+Touch,P21,mark sentence
+Touch,P22,close document
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P22,search
+Touch,P22,close document
+Touch,P22,close document
+Touch,P22,open document
+Touch,P21,search
+Touch,P22,close document
+Touch,P21,close document
+Touch,P21,move document
+Touch,P21,open document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P21,open document
+Touch,P22,move document
+Touch,P22,search
+Touch,P21,search
+Touch,P21,clear search
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,resize document
+Touch,P21,search
+Touch,P22,scroll
+Touch,P21,close document
+Touch,P21,move document
+Touch,P22,scroll
+Touch,P21,open document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P21,close document
+Touch,P22,scroll
+Touch,P21,open document
+Touch,P21,close document
+Touch,P21,open document
+Touch,P21,open document
+Touch,P22,mark sentence
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,mark sentence
+Touch,P22,clear sentence
+Touch,P22,mark sentence
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P21,close document
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P22,search
+Touch,P22,move document
+Touch,P22,move document
+Touch,P22,resize document
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P21,mark sentence
+Touch,P22,mark sentence
+Touch,P22,mark sentence
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P21,search
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,move document
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,mark sentence
+Touch,P22,mark sentence
+Touch,P22,scroll
+Touch,P22,scroll
+Touch,P22,search
+Touch,P21,scroll
+Touch,P21,scroll
+Touch,P21,move document
+Touch,P21,mark sentence
+Touch,P21,scroll
+Touch,P22,close document
+Touch,P22,open document
+Touch,P21,search
+Touch,P22,search
+Touch,P22,search
+Touch,P22,open document
+Touch,P22,scroll
