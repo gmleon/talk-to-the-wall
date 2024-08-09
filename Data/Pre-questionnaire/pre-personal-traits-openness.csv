@@ -1,0 +1,241 @@
+participant,item,keyed,text,answer,score
+P1,O1,plus,I have a vivid imagination,Very Accurate,0
+P1,O1,plus,I love to daydream,Very Accurate,0
+P1,O2,plus,I believe in the importance of art,Very Accurate,0
+P1,O2,minus,I do not like art,Very Inaccurate,0
+P1,O3,plus,I experience my emotions intensely,Very Accurate,0
+P1,O3,minus,I am not easily affected by my emotions,Very Inaccurate,0
+P1,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P1,O4,minus,I don?t like the idea of change,Neither Accurate Nor Inaccurate,0
+P1,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P1,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P1,O6,plus,I tend to vote for liberal political candidates,Moderately Accurate,0
+P1,O6,minus,I believe in one true religion,Very Accurate,0
+P2,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P2,O1,plus,I love to daydream,Neither Accurate Nor Inaccurate,0
+P2,O2,plus,I believe in the importance of art,Very Accurate,0
+P2,O2,minus,I do not like art,Very Inaccurate,0
+P2,O3,plus,I experience my emotions intensely,Moderately Inaccurate,0
+P2,O3,minus,I am not easily affected by my emotions,Moderately Inaccurate,0
+P2,O4,minus,I prefer to stick with things that I know,Moderately Inaccurate,0
+P2,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P2,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P2,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P2,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P2,O6,minus,I believe in one true religion,Very Inaccurate,0
+P3,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P3,O1,plus,I love to daydream,Very Accurate,0
+P3,O2,plus,I believe in the importance of art,Very Accurate,0
+P3,O2,minus,I do not like art,Very Inaccurate,0
+P3,O3,plus,I experience my emotions intensely,Moderately Accurate,0
+P3,O3,minus,I am not easily affected by my emotions,Moderately Inaccurate,0
+P3,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P3,O4,minus,I don?t like the idea of change,Moderately Accurate,0
+P3,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P3,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P3,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P3,O6,minus,I believe in one true religion,Very Inaccurate,0
+P4,O1,plus,I have a vivid imagination,Very Accurate,0
+P4,O1,plus,I love to daydream,Neither Accurate Nor Inaccurate,0
+P4,O2,plus,I believe in the importance of art,Very Accurate,0
+P4,O2,minus,I do not like art,Very Inaccurate,0
+P4,O3,plus,I experience my emotions intensely,Neither Accurate Nor Inaccurate,0
+P4,O3,minus,I am not easily affected by my emotions,Very Accurate,0
+P4,O4,minus,I prefer to stick with things that I know,Moderately Inaccurate,0
+P4,O4,minus,I don?t like the idea of change,Very Inaccurate,0
+P4,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P4,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P4,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P4,O6,minus,I believe in one true religion,Very Accurate,0
+P5,O1,plus,I have a vivid imagination,Very Accurate,0
+P5,O1,plus,I love to daydream,Moderately Accurate,0
+P5,O2,plus,I believe in the importance of art,Very Accurate,0
+P5,O2,minus,I do not like art,Very Inaccurate,0
+P5,O3,plus,I experience my emotions intensely,Moderately Accurate,0
+P5,O3,minus,I am not easily affected by my emotions,Moderately Inaccurate,0
+P5,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P5,O4,minus,I don?t like the idea of change,Neither Accurate Nor Inaccurate,0
+P5,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P5,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P5,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P5,O6,minus,I believe in one true religion,Neither Accurate Nor Inaccurate,0
+P6,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P6,O1,plus,I love to daydream,Moderately Accurate,0
+P6,O2,plus,I believe in the importance of art,Very Accurate,0
+P6,O2,minus,I do not like art,Very Inaccurate,0
+P6,O3,plus,I experience my emotions intensely,Moderately Inaccurate,0
+P6,O3,minus,I am not easily affected by my emotions,Moderately Inaccurate,0
+P6,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P6,O4,minus,I don?t like the idea of change,Very Accurate,0
+P6,O5,minus,I avoid philosophical discussions,Moderately Inaccurate,0
+P6,O5,minus,I am not interested in theoretical discussions,Very Accurate,0
+P6,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P6,O6,minus,I believe in one true religion,Moderately Accurate,0
+P7,O1,plus,I have a vivid imagination,Very Accurate,0
+P7,O1,plus,I love to daydream,Very Accurate,0
+P7,O2,plus,I believe in the importance of art,Very Accurate,0
+P7,O2,minus,I do not like art,Very Inaccurate,0
+P7,O3,plus,I experience my emotions intensely,Very Accurate,0
+P7,O3,minus,I am not easily affected by my emotions,Very Accurate,0
+P7,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P7,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P7,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P7,O5,minus,I am not interested in theoretical discussions,Moderately Inaccurate,0
+P7,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P7,O6,minus,I believe in one true religion,Very Accurate,0
+P8,O1,plus,I have a vivid imagination,Very Accurate,0
+P8,O1,plus,I love to daydream,Moderately Accurate,0
+P8,O2,plus,I believe in the importance of art,Very Accurate,0
+P8,O2,minus,I do not like art,Very Inaccurate,0
+P8,O3,plus,I experience my emotions intensely,Moderately Accurate,0
+P8,O3,minus,I am not easily affected by my emotions,Neither Accurate Nor Inaccurate,0
+P8,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P8,O4,minus,I don?t like the idea of change,Neither Accurate Nor Inaccurate,0
+P8,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P8,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P8,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P8,O6,minus,I believe in one true religion,Neither Accurate Nor Inaccurate,0
+P9,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P9,O1,plus,I love to daydream,Moderately Accurate,0
+P9,O2,plus,I believe in the importance of art,Very Accurate,0
+P9,O2,minus,I do not like art,Very Inaccurate,0
+P9,O3,plus,I experience my emotions intensely,Neither Accurate Nor Inaccurate,0
+P9,O3,minus,I am not easily affected by my emotions,Very Accurate,0
+P9,O4,minus,I prefer to stick with things that I know,Moderately Inaccurate,0
+P9,O4,minus,I don?t like the idea of change,Neither Accurate Nor Inaccurate,0
+P9,O5,minus,I avoid philosophical discussions,Moderately Inaccurate,0
+P9,O5,minus,I am not interested in theoretical discussions,Moderately Inaccurate,0
+P9,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P9,O6,minus,I believe in one true religion,Moderately Accurate,0
+P10,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P10,O1,plus,I love to daydream,Neither Accurate Nor Inaccurate,0
+P10,O2,plus,I believe in the importance of art,Very Accurate,0
+P10,O2,minus,I do not like art,Very Inaccurate,0
+P10,O3,plus,I experience my emotions intensely,Moderately Inaccurate,0
+P10,O3,minus,I am not easily affected by my emotions,Moderately Accurate,0
+P10,O4,minus,I prefer to stick with things that I know,Neither Accurate Nor Inaccurate,0
+P10,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P10,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P10,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P10,O6,plus,I tend to vote for liberal political candidates,Very Accurate,0
+P10,O6,minus,I believe in one true religion,Very Inaccurate,0
+P11,O1,plus,I have a vivid imagination,Moderately Inaccurate,0
+P11,O1,plus,I love to daydream,Neither Accurate Nor Inaccurate,0
+P11,O2,plus,I believe in the importance of art,Moderately Accurate,0
+P11,O2,minus,I do not like art,Moderately Inaccurate,0
+P11,O3,plus,I experience my emotions intensely,Moderately Inaccurate,0
+P11,O3,minus,I am not easily affected by my emotions,Moderately Inaccurate,0
+P11,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P11,O4,minus,I don?t like the idea of change,Moderately Accurate,0
+P11,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P11,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P11,O6,plus,I tend to vote for liberal political candidates,Very Accurate,0
+P11,O6,minus,I believe in one true religion,Very Inaccurate,0
+P12,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P12,O1,plus,I love to daydream,Moderately Accurate,0
+P12,O2,plus,I believe in the importance of art,Very Accurate,0
+P12,O2,minus,I do not like art,Very Inaccurate,0
+P12,O3,plus,I experience my emotions intensely,Moderately Accurate,0
+P12,O3,minus,I am not easily affected by my emotions,Very Accurate,0
+P12,O4,minus,I prefer to stick with things that I know,Neither Accurate Nor Inaccurate,0
+P12,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P12,O5,minus,I avoid philosophical discussions,Neither Accurate Nor Inaccurate,0
+P12,O5,minus,I am not interested in theoretical discussions,Moderately Inaccurate,0
+P12,O6,plus,I tend to vote for liberal political candidates,Very Accurate,0
+P12,O6,minus,I believe in one true religion,Very Inaccurate,0
+P13,O1,plus,I have a vivid imagination,Very Accurate,0
+P13,O1,plus,I love to daydream,Very Accurate,0
+P13,O2,plus,I believe in the importance of art,Very Accurate,0
+P13,O2,minus,I do not like art,Very Inaccurate,0
+P13,O3,plus,I experience my emotions intensely,Very Accurate,0
+P13,O3,minus,I am not easily affected by my emotions,Moderately Inaccurate,0
+P13,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P13,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P13,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P13,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P13,O6,plus,I tend to vote for liberal political candidates,Very Accurate,0
+P13,O6,minus,I believe in one true religion,Neither Accurate Nor Inaccurate,0
+P14,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P14,O1,plus,I love to daydream,Very Inaccurate,0
+P14,O2,plus,I believe in the importance of art,Moderately Accurate,0
+P14,O2,minus,I do not like art,Very Inaccurate,0
+P14,O3,plus,I experience my emotions intensely,Very Inaccurate,0
+P14,O3,minus,I am not easily affected by my emotions,Very Accurate,0
+P14,O4,minus,I prefer to stick with things that I know,Neither Accurate Nor Inaccurate,0
+P14,O4,minus,I don?t like the idea of change,Very Inaccurate,0
+P14,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P14,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P14,O6,plus,I tend to vote for liberal political candidates,Very Accurate,0
+P14,O6,minus,I believe in one true religion,Very Inaccurate,0
+P15,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P15,O1,plus,I love to daydream,Neither Accurate Nor Inaccurate,0
+P15,O2,plus,I believe in the importance of art,Moderately Accurate,0
+P15,O2,minus,I do not like art,Very Inaccurate,0
+P15,O3,plus,I experience my emotions intensely,Neither Accurate Nor Inaccurate,0
+P15,O3,minus,I am not easily affected by my emotions,Neither Accurate Nor Inaccurate,0
+P15,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P15,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P15,O5,minus,I avoid philosophical discussions,Moderately Accurate,0
+P15,O5,minus,I am not interested in theoretical discussions,Moderately Accurate,0
+P15,O6,plus,I tend to vote for liberal political candidates,Very Accurate,0
+P15,O6,minus,I believe in one true religion,Moderately Inaccurate,0
+P16,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P16,O1,plus,I love to daydream,Neither Accurate Nor Inaccurate,0
+P16,O2,plus,I believe in the importance of art,Neither Accurate Nor Inaccurate,0
+P16,O2,minus,I do not like art,Moderately Accurate,0
+P16,O3,plus,I experience my emotions intensely,Neither Accurate Nor Inaccurate,0
+P16,O3,minus,I am not easily affected by my emotions,Neither Accurate Nor Inaccurate,0
+P16,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P16,O4,minus,I don?t like the idea of change,Moderately Accurate,0
+P16,O5,minus,I avoid philosophical discussions,Neither Accurate Nor Inaccurate,0
+P16,O5,minus,I am not interested in theoretical discussions,Neither Accurate Nor Inaccurate,0
+P16,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P16,O6,minus,I believe in one true religion,Very Inaccurate,0
+P17,O1,plus,I have a vivid imagination,Very Accurate,0
+P17,O1,plus,I love to daydream,Moderately Accurate,0
+P17,O2,plus,I believe in the importance of art,Very Accurate,0
+P17,O2,minus,I do not like art,Very Inaccurate,0
+P17,O3,plus,I experience my emotions intensely,Moderately Accurate,0
+P17,O3,minus,I am not easily affected by my emotions,Moderately Inaccurate,0
+P17,O4,minus,I prefer to stick with things that I know,Neither Accurate Nor Inaccurate,0
+P17,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P17,O5,minus,I avoid philosophical discussions,Moderately Inaccurate,0
+P17,O5,minus,I am not interested in theoretical discussions,Moderately Inaccurate,0
+P17,O6,plus,I tend to vote for liberal political candidates,Moderately Inaccurate,0
+P17,O6,minus,I believe in one true religion,Very Inaccurate,0
+P18,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P18,O1,plus,I love to daydream,Moderately Inaccurate,0
+P18,O2,plus,I believe in the importance of art,Very Accurate,0
+P18,O2,minus,I do not like art,Very Inaccurate,0
+P18,O3,plus,I experience my emotions intensely,Moderately Accurate,0
+P18,O3,minus,I am not easily affected by my emotions,Neither Accurate Nor Inaccurate,0
+P18,O4,minus,I prefer to stick with things that I know,Very Inaccurate,0
+P18,O4,minus,I don?t like the idea of change,Moderately Inaccurate,0
+P18,O5,minus,I avoid philosophical discussions,Moderately Inaccurate,0
+P18,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P18,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,1
+P18,O6,minus,I believe in one true religion,Very Inaccurate,0
+P19,O1,plus,I have a vivid imagination,Moderately Accurate,0
+P19,O1,plus,I love to daydream,Very Accurate,0
+P19,O2,plus,I believe in the importance of art,Moderately Accurate,0
+P19,O2,minus,I do not like art,Moderately Inaccurate,0
+P19,O3,plus,I experience my emotions intensely,Very Accurate,0
+P19,O3,minus,I am not easily affected by my emotions,Very Inaccurate,0
+P19,O4,minus,I prefer to stick with things that I know,Moderately Accurate,0
+P19,O4,minus,I don?t like the idea of change,Neither Accurate Nor Inaccurate,0
+P19,O5,minus,I avoid philosophical discussions,Moderately Accurate,0
+P19,O5,minus,I am not interested in theoretical discussions,Neither Accurate Nor Inaccurate,0
+P19,O6,plus,I tend to vote for liberal political candidates,Neither Accurate Nor Inaccurate,0
+P19,O6,minus,I believe in one true religion,Very Inaccurate,0
+P20,O1,plus,I have a vivid imagination,Very Accurate,0
+P20,O1,plus,I love to daydream,Very Accurate,0
+P20,O2,plus,I believe in the importance of art,Very Accurate,0
+P20,O2,minus,I do not like art,Very Inaccurate,0
+P20,O3,plus,I experience my emotions intensely,Very Accurate,0
+P20,O3,minus,I am not easily affected by my emotions,Very Inaccurate,0
+P20,O4,minus,I prefer to stick with things that I know,Moderately Inaccurate,0
+P20,O4,minus,I don?t like the idea of change,Very Inaccurate,0
+P20,O5,minus,I avoid philosophical discussions,Very Inaccurate,0
+P20,O5,minus,I am not interested in theoretical discussions,Very Inaccurate,0
+P20,O6,plus,I tend to vote for liberal political candidates,Moderately Accurate,0
+P20,O6,minus,I believe in one true religion,Neither Accurate Nor Inaccurate,0
