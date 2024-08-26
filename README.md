@@ -54,11 +54,15 @@ Install them using `pip3 install [package]` or the respective alternative for yo
 The scripts run on Windows 10 Pro (64-bit, x64-based processor), but you can also execute them on any other operating system where Python and Jupyter distributions are available.
 
 ### How to run the scripts 📊
-The Jupyter notebooks recreate Figures 3, 4, and 5 of the paper.
+The Jupyter notebooks recreate Figures 3, 4, and 5 of the paper. 
 
 1. Download the CSV files in the `Data/Figures` subfolder to a folder called `data`.
 2. Download the CSV file `post-modality-preferences.csv` from the `Data/Post-questionnaire` folder to the `data` folder.
-3. Run each Jupyter Notebook in the parent folder.
+3. In the parent folder, run each Jupyter Notebook as follows:
+     - Start the notebook server from the command line: `jupyter notebook`.
+     - You should see the notebook open in your browser.
+
+You can learn more about Jupyter notebooks in their [documentation](https://docs.jupyter.org/en/latest/running.html).
 
 The PDF versions of the figures will be generated in the parent folder. We finalized Figures 3 and 5 in [Figma](https://www.figma.com/) for minor fixes (e.g., adding the gray arrows in Figure 3). 
 
